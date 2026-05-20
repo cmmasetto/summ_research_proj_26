@@ -1,0 +1,30 @@
+---
+title: "lit_review_brainstorm + writing"
+output: html_document
+---
+
+### 1. Pertinent Variables + Brain Structures
+
+Codebook: <https://docs.abcdstudy.org/latest/documentation/imaging/type_smri.html>
+
+ABCD Study:
+
+-   Structural MRI Data
+
+    -   Amygdala Volume (R/L Hemispheres)
+
+        -   `mr_y_smri_vol_aseg_ag_lh_sum`
+
+        -   `mr_y_smri_vol_aseg_ag_rh_sum`
+
+    -   Anterior Cingulate Cortex (ACC) Thickness
+
+    -   Pre-Frontal Cortex (PFC) Thickness/Volume
+
+-   Resting State fMRI Data
+
+    -   Amygdala-PFC Connectivity
+
+    -   ACC Network Connectivity
+
+### 2. Research Question for Lit Review
