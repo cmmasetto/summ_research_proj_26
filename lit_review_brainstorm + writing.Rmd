@@ -27,4 +27,28 @@ ABCD Study:
 
     -   ACC Network Connectivity
 
-### 2. Research Question for Lit Review
+### 2. Brain Dump
+
+Brain structures for review: pre-frontal cortex, amygdala, anterior cingulate circuit
+
+What does each do + how are they connected?
+
+Pre-Frontal Cortex:
+
+Amygdala:
+
+Anterior Cingulate Circuit:
+
+How Can I relate this to what I want my future research to look like?
+
+I'm interested in neurodegenerative diseases and medication resistant disorders. These both encompass chronic inflammation of neurons. Therefore, my present literature review can discuss how adversity (specifically abuse, poverty, malnutrition, etc) leads to degradation/inflammation of key brain structures (PFC, Amygdala, ACC). This degreation contributes to systemtic neuroinflmmation that predisposes individuals to medication resistant condition
+
+### 3. Research Question
+
+To what extent does childhood adversity-induced structural atrophy in the PFC-ACC-Amygdala circuit serve as a biomarker for chronic neuroinflammation and as a predictor of medication-resistant psychopathology?
+
+-   In discussion/conclusion: if we can identify this PFC-ACC-Amygdala atrophy early, we can flag these individuals as being at high risk for the chronic inflammation and predisposes individuals to medication resistance and neurodegenerative disorders.
+
+**RQ:** How does childhood poverty and abuse correlate with structural atrophy in the PFC-ACC-Amygdala circuit during early adolescence?
+
+### 4. Preliminary Source List
