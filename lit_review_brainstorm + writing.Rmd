@@ -69,8 +69,6 @@ OR
 
 -   identifying whether parental incarceration acts as a sufficiently significant stressor and "embeds" itself into the brain
 
-### 4. Preliminary Source List
-
 parental incarceration + "threat" pathway -\> amygdala
 
 -   attachment trauma
@@ -78,3 +76,5 @@ parental incarceration + "threat" pathway -\> amygdala
 -   loss of caregiver causes amygdala hyper-reactivity
 
 does parental incarceration lead to ACC thinning?
+
+### 4. Preliminary Source List
