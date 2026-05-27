@@ -41,7 +41,7 @@ Anterior Cingulate Circuit:
 
 How Can I relate this to what I want my future research to look like?
 
-I'm interested in neurodegenerative diseases and medication resistant disorders. These both encompass chronic inflammation of neurons. Therefore, my present literature review can discuss how adversity (specifically abuse, poverty, malnutrition, etc) leads to degradation/inflammation of key brain structures (PFC, Amygdala, ACC). This degreation contributes to systemtic neuroinflmmation that predisposes individuals to medication resistant condition
+I'm interested in neurodegenerative diseases and medication resistant disorders. These both encompass chronic inflammation of neurons. Therefore, my present literature review can discuss how adversity (specifically abuse, poverty, malnutrition, etc) leads to degradation/inflammation of key brain structures (PFC, Amygdala, ACC). This degradation contributes to systemic neuroinflmmation that predisposes individuals to medication resistant conditions
 
 ### 3. Research Question
 
@@ -49,6 +49,32 @@ To what extent does childhood adversity-induced structural atrophy in the PFC-AC
 
 -   In discussion/conclusion: if we can identify this PFC-ACC-Amygdala atrophy early, we can flag these individuals as being at high risk for the chronic inflammation and predisposes individuals to medication resistance and neurodegenerative disorders.
 
-**RQ:** How does childhood poverty and abuse correlate with structural atrophy in the PFC-ACC-Amygdala circuit during early adolescence?
+**RQ:** How does childhood poverty and abuse and adverse childhood experiences correlate with structural atrophy in the PFC-ACC-Amygdala circuit during early adolescence?
+
+**RQ:**
+
+specifically link to childhood
+
+How do adverse childhood experiences (poverty, parental incarceration, low SES) correlate to structural atrophy in the PFF-ACC-Amygdala circuit and what implications does this have for adolescent and adult outcomes?
+
+**RQ:** How does parental incarceration predict accelerated structural atrophy in the Frontolimbic circuit during early adolescence, and can these changes serve as neurobiological markers for long-term health vulnerability?
+
+OR
+
+**RQ (shortened):** How does parental incarceration predict accelerated structural atrophy in the Frontolimbic circuit (PFC-ACC-Amygdala) during early adolescence?
+
+OR
+
+**RQ:** How does parental incarceration predict structural atrophy/change in the frontolimbic circuit (PFC-ACC-Amygdala) during early adolescence?
+
+-   identifying whether parental incarceration acts as a sufficiently significant stressor and "embeds" itself into the brain
 
 ### 4. Preliminary Source List
+
+parental incarceration + "threat" pathway -\> amygdala
+
+-   attachment trauma
+
+-   loss of caregiver causes amygdala hyper-reactivity
+
+does parental incarceration lead to ACC thinning?
