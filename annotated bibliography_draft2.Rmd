@@ -426,3 +426,27 @@ v.
     Within Pantell et al.’s (2024) characterization of adversity, they included legal problems as a core social risk.
     The study establishes that high cumulative social adversity directly influences systemic inflammatory systems in children.
     This is relevant to my research question and the future implications for research because persistent inflammatory responses can cross the blood-brain barrier, triggering downward cascades that can harm the central nervous system and cortical structures.
+
+w.  
+```
+Spear, L. P. (2013). Adolescent Neurodevelopment. *Journal of Adolescent Health, 52*(2).
+    <https://doi.org/10.1016/j.jadohealth.2012.05.006>
+```
+
+x. 
+
+```
+Schalbetter, S. M., von Arx, A. S., Cruz-Ochoa, N., Dawson, K., Ivanov, A., Mueller, F. S., Lin, H.-Y., Amport, R., Mildenberger, W., Mattei, D., Beule, D., Földy, C., Greter, M., Notter, T., & Meyer, U.
+    (2022).
+    Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.
+    *Science Advances*, *8*(9).
+    <https://doi.org/10.1126/sciadv.abi6672>
+```
+y. 
+```
+Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S.
+    (1998a).
+    Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults.
+    *American Journal of Preventive Medicine*, *14*(4), 245–258.
+    [https://doi.org/10.1016/s0749-3797(98)00017-8](https://doi.org/10.1016/s0749-3797(98)00017-8)
+```
