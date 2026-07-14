@@ -34,39 +34,61 @@ Arditti, J. A.(2012).Child trauma within the context of parental incarceration: 
 Journal of Family Theory & Review, 4(3), 181–219. <https://doi.org/10.1111/j.1756-2589.2012.00128.x>
 ```
 
-b.  
+Arditti (2012) proposed a conceptual model identifying how family processes contribute to child trauma within the context of parental incarceration.
+Arditti (2012) identified three specific processes that uniquely affect childhood trauma within the context of parental incarceration: pre-incarceration factors, the quality and stability of caregiving, and the nature and quality of the child’s visitation experience.
+Arditti (2012) presents child trauma as a cumulative process influenced by external and interrelated family dynamics.
+
+Arditti (2012) synthesized findings from different studies dealing with incarcerated parents, children of prisoners, and their primary caregivers.
+Participants in the reviewed research were primarily low-income and racial and ethnic minorities.
+No ages were provided, but the children in the reviewed studies ranged from infants to school-aged children and adolescents.
+The reviewed studies provided evidence confirming that children whose parents were active caregivers prior to arrest, children who witnessed violent arrests, and those who experienced unstable caregiving during the parent’s confinement suffered the most severe traumatic stress and behavioral maladjustment (Arditti, 2012).
+In the review, Arditti (2012) touches on the nature of visitation for the children.
+Arditti (2012) presents that while visitation can maintain parent-child bonds, the traditional jail or prison environment can often be detrimental rather than beneficial to the child.
+This detriment manifests as the externalization of recessive behaviors in children inside and outside the prison environment (Arditti, 2012).
+
+Arditti (2012) presents several limitations.
+The most important to discuss is the nature of parental incarceration as a confounding variable.
+Very few empirical studies have successfully isolated parental incarceration from other co-occurring and pre-existing stressors, making it difficult to identify what specifically caused the removal or absence of a parent.
+Additionally, Arditti (2012) also touches on the lack of direct trauma measures, parental incarceration context availability, and design limitations in the studies under review.
+
+Arditti (2012) relates to my research question by firstly identifying parental incarceration as an adverse childhood experience (ACE) and stating that ACEs typically occur in interrelated clusters and have a cumulative effect on the child.
+Secondly, Arditti (2012) also presents parental incarceration as a persistent and chronic event that can trigger other adverse experiences or stressors.
+
+c.  
 
     ```         
     McLaughlin, K. A., Sheridan, M. A., & Lambert, H. K. (2014). Childhood adversity and neural development: Deprivation and threat as distinct dimensions of early experience. Neuroscience & Biobehavioral Reviews, 47, 578–591. https://doi.org/10.1016/j.neubiorev.2014.10.012
     ```
 
-    McLaughlin et al. (2014) introduce a conceptual framework, now recognized as the Dimensional Model of Adversity and Psychopathology (DMAP), to modify how the neurodevelopmental consequences of early-life adversity are conceptualized and studied.
-    McLaughlin et al. (2014) identify two key dimensions: deprivation (the absence of expected environmental and social inputs) and threat (the presence of dangerous experiences).
-    McLaughlin et al. (2014) present that these dimensions operate through separate neurobiological pathways that are independent of generalized HPA-axis stress models.
-    Machlin et al. (2014) present the DMAP as an extension of established neuroscientific principles; particularly, the mechanisms of sensory deprivation, synaptic proliferation and pruning, and fear learning and extinction.
-    The pre-established categories of adversity (e.g., institutional rearing, socio-economic status, physical/sexual abuse, and domestic violence) were mapped onto the continuous dimensions of threat and deprivation they originally established.
-    McLaughlin et al. (2014) present two hypotheses in this review.
-    The first being can deprivation disrupt the structural development of the association cortex, thus leading to age-specific reductions in cortical thickness and volume, consequently impairing cognitive performance from under-stimulation and premature or excessive synaptic pruning (McLaughlin et al., 2014).
-    The second: do threat experiences specifically alter the structure, function, and connectivity of emotional learning and fear-conditioning networks, specifically frontolimbic structures such as the amygdala and ventromedial prefrontal cortex (McLaughlin et al., 2014).
-    Despite the DMAP’s fluidity, McLaughlin et al. (2014) still note some limitations.
-    For example, deprivation and threat are not the only dimensions of early environmental experiences.
-    Environmental unpredictability (e.g., parental incarceration) or the loss of an attachment figure can also heavily influence the neurobiological outcomes of children.
-    Additionally, experiences of threat and deprivation frequently overlap, leading to high co-occurrence.
-    This makes it difficult to control for all confounding possibilities, and tracking individual consequences requires sophisticated modeling paradigms.
-    This co-occurrence also makes it difficult to distinguish which dimensions of adversity are present if others are not controlled for.
-    McLaughlin et al. (2014) provide a foundational framework for evaluating my research question.
-    Parental incarceration, within the DMAP framework, represents a complex environmental mix of both deprivation and threat.
-    In their framework, McLaughlin et al. (2014) isolate exposure to threat as a primary driver of structural alterations within the frontolimbic circuit, noting that early threat predicts accelerated synaptic pruning and significant volume or thickness reductions in the ventromedial prefrontal cortex.
-    Additionally, McLaughlin et al. (2014) also note that deprivation related pre-frontal structural deficits can influence amygdala activity.
-    This interaction can predict how early childhood stress can fundamentally alter or impede the structural remodeling of the frontolimbic circuitry as a child enters the highly malleable window of early adolescence (McLaughlin et al., 2014).
+McLaughlin et al. (2014) introduce a conceptual framework, now recognized as the Dimensional Model of Adversity and Psychopathology (DMAP), to modify how the neurodevelopmental consequences of early-life adversity are conceptualized and studied.
+McLaughlin et al. (2014) identify two key dimensions: deprivation (the absence of expected environmental and social inputs) and threat (the presence of dangerous experiences).
+McLaughlin et al. (2014) present that these dimensions operate through separate neurobiological pathways that are independent of generalized HPA-axis stress models.
+Machlin et al. (2014) present the DMAP as an extension of established neuroscientific principles; particularly, the mechanisms of sensory deprivation, synaptic proliferation and pruning, and fear learning and extinction.
+The pre-established categories of adversity (e.g., institutional rearing, socio-economic status, physical/sexual abuse, and domestic violence) were mapped onto the continuous dimensions of threat and deprivation they originally established.
+McLaughlin et al. (2014) present two hypotheses in this review.
+The first being can deprivation disrupt the structural development of the association cortex, thus leading to age-specific reductions in cortical thickness and volume, consequently impairing cognitive performance from under-stimulation and premature or excessive synaptic pruning (McLaughlin et al., 2014).
+The second: do threat experiences specifically alter the structure, function, and connectivity of emotional learning and fear-conditioning networks, specifically frontolimbic structures such as the amygdala and ventromedial prefrontal cortex (McLaughlin et al., 2014).
 
-c.  
+Despite the DMAP’s fluidity, McLaughlin et al. (2014) still note some limitations.
+For example, deprivation and threat are not the only dimensions of early environmental experiences.
+Environmental unpredictability (e.g., parental incarceration) or the loss of an attachment figure can also heavily influence the neurobiological outcomes of children.
+Additionally, experiences of threat and deprivation frequently overlap, leading to high co-occurrence.
+This makes it difficult to control for all confounding possibilities, and tracking individual consequences requires sophisticated modeling paradigms.
+This co-occurrence also makes it difficult to distinguish which dimensions of adversity are present if others are not controlled for.
+
+McLaughlin et al. (2014) provide a foundational framework for evaluating my research question.
+Parental incarceration, within the DMAP framework, represents a complex environmental mix of both deprivation and threat.
+In their framework, McLaughlin et al. (2014) isolate exposure to threat as a primary driver of structural alterations within the frontolimbic circuit, noting that early threat predicts accelerated synaptic pruning and significant volume or thickness reductions in the ventromedial prefrontal cortex.
+Additionally, McLaughlin et al. (2014) also note that deprivation related pre-frontal structural deficits can influence amygdala activity.
+This interaction can predict how early childhood stress can fundamentally alter or impede the structural remodeling of the frontolimbic circuitry as a child enters the highly malleable window of early adolescence (McLaughlin et al., 2014).
+
+d.  
 
     ```         
     McLaughlin, K. A., Weissman, D., & Bitrán, D. (2019). Childhood Adversity and Neural Development: A systematic review. Annual Review of Developmental Psychology, 1(1), 277–312. https://doi.org/10.1146/annurev-devpsych-121318-084950
     ```
 
-d.  
+e.  
 
     ```         
     Turney, K. (2018). Adverse childhood experiences among children of incarcerated parents. Children and Youth Services Review, 89, 218–225. https://doi.org/10.1016/j.childyouth.2018.04.033
@@ -92,7 +114,7 @@ d.
     Additionally, Turney (2018) notes that early-to-late adolescents (ages 13-17) have experienced parental incarceration.
     By having a massive and persistent stressor occur during a critical window of development, parental incarceration and the stress it induces influence structural remodeling by triggering inflammatory processes.
 
-e.  
+f.  
 
     ```         
     Rhodes, C. A., Thomas, N., O’Hara, K. L., Hita, L., Blake, A., Wolchik, S. A., Fisher, B., Freeman, M., Chen, D., & Berkel, C. (2023). Enhancing the focus: How does parental incarceration fit into the overall picture of adverse childhood experiences (ACEs) and positive childhood experiences (PCEs)? Research on Child and Adolescent Psychopathology, 51(12), 1933–1944. https://doi.org/10.1007/s10802-023-01142-0
@@ -116,7 +138,7 @@ e.
     Rhodes et al. (2023) highlight that parental incarceration triggers profound strain and stress pathways in children; additionally, Rhodes et al. (2023) illustrate that PCEs fail to act as an effective buffer against the emotional turmoil that accompanies parental incarceration.
     This finding prompts a more thorough examination of internal neurobiological mechanisms that influence outcomes.
 
-f.  
+g.  
 
     ```         
      Del Toro, J., Fine, A., & Wang, M.-T. (2022). The intergenerational effects of paternal incarceration on children’s social and psychological well-being from early childhood to adolescence. Development and Psychopathology, 35(2), 558–569. https://doi.org/10.1017/s0954579421001693
@@ -148,7 +170,7 @@ f.
     However, when the absence was attributed to incarceration, it significantly predicted long-term behavioral and emotional degradation.
     This indicates that parental incarceration is a distinctive form of trauma that manifests itself as persistent stress across critical developmental periods.
 
-g.  
+h.  
 
     ```         
     Mills, K. L., Goddings, A.-L., Herting, M. M., Meuwese, R., Blakemore, S.-J., Crone, E. A., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., & Tamnes, C. K. (2016). Structural Brain Development between childhood and adulthood: Convergence across four longitudinal samples. NeuroImage, 141, 273–281. https://doi.org/10.1016/j.neuroimage.2016.07.044
@@ -179,7 +201,7 @@ g.
     Mills et al. (2016) provide evidence that healthy CGMV is at its highest in childhood and undergoes a steady decline throughout adolescence.
     This can be utilized to compare typical cortical thinning against stress-induced tissue loss.
 
-h.  
+i.  
 
     ```         
     Piekarski, D. J., Colich, N. L., & Ho, T. C. (2023). The effects of puberty and sex on Adolescent White Matter Development: A systematic review. Developmental Cognitive Neuroscience, 60, 101214. https://doi.org/10.1016/j.dcn.2023.101214
@@ -203,7 +225,7 @@ h.
     The review by Piekarski et al. (2023) establishes a baseline for mapping WM volume trajectories and, consequently, what typical development should look like in adolescence.
     With this baseline, it is easier to elucidate how early-life adversity can impact structural remodeling and development.
 
-i.  
+j.  
 
     ```         
      Cohodes, E. M., Kitt, E. R., Baskin‐Sommers, A., & Gee, D. G. (2020). Influences of early‐life stress on frontolimbic circuitry: Harnessing a dimensional approach to elucidate the effects of heterogeneity in stress exposure. Developmental Psychobiology, 63(2), 153–172. https://doi.org/10.1002/dev.21969
@@ -229,13 +251,13 @@ i.
     Cohodes et al. (2020) highlight that the capacity for controllability is uniquely significant to neurobiological health in adolescence because a child cannot control or predict a parent’s removal.
     This deprivation blocks normal adaptive coping mechanisms developed during the adolescent window and can result in structural atrophy or altered frontolimbic volume observed in the future.
 
-j.  
+k.  
 
     ```         
      Hardi, F. A., Goetschius, L. G., Peckins, M. K., Brooks-Gunn, J., McLanahan, S. S., McLoyd, V., Lopez-Duran, N. L., Mitchell, C., Hyde, L. W., & Monk, C. S. (2022). Differential developmental associations of material hardship exposure and adolescent amygdala–prefrontal cortex white matter connectivity. Journal of Cognitive Neuroscience, 34(10), 1866–1891. https://doi.org/10.1162/jocn_a_01801
     ```
 
-k.  
+l.  
 
     ```         
     Machlin, L., Egger, H. L., Stein, C. R., Navarro, E., Carpenter, K. L. H., Goel, S., Patel, K. K., Copeland, W. E., & Sheridan, M. A. (2023). Distinct associations of deprivation and threat with alterations in brain structure in early childhood. Journal of the American Academy of Child & Adolescent Psychiatry, 62(8). https://doi.org/10.1016/j.jaac.2023.02.006
@@ -266,43 +288,43 @@ k.
     While the study did not observe significant reductions in subcortical volume, the authors do note that these reductions manifest themselves later in adolescence.
     Overall, the study provides a trajectory that highlights how early life stress, such as parental incarceration, can disrupt prefrontal cortical structures during childhood, consequently disrupting the subsequent structural remodeling of subcortical regions as the child transitions into early adolescence.
 
-l.  
+m.  
 
     ```         
      Teicher, M. H., Andersen, S. L., Polcari, A., Anderson, C. M., Navalta, C. P., & Kim, D. M. (2003). The neurobiological consequences of early stress and childhood maltreatment. Neuroscience & Biobehavioral Reviews, 27(1–2), 33–44. https://doi.org/10.1016/s0149-7634(03)00007-1
     ```
 
-m.  Tamnes, C. K., Herting, M. M., Goddings, A.-L., Meuwese, R., Blakemore, S.-J., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., Crone, E. A., & Mills, K. L.
+n.  Tamnes, C. K., Herting, M. M., Goddings, A.-L., Meuwese, R., Blakemore, S.-J., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., Crone, E. A., & Mills, K. L.
     (2017).
     Development of the cerebral cortex across adolescence: A multisample study of inter-related longitudinal changes in cortical volume, surface area, and thickness.
     The Journal of Neuroscience, 37(12), 3402–3412.
     <https://doi.org/10.1523/JNEUROSCI.3302-16.2017>
 
-n.  
+o.  
 
     ```         
     Shaul, M., Whittle, S., Dehestani, N., Silk, T. J., & Vijayakumar, N. (2026). Dimensional adversity, brain-age, & mental health: Differences in male and female adolescents. Developmental Cognitive Neuroscience, 78. https://doi.org/10.1016/j.dcn.2026.101671
     ```
 
-o.  
+p.  
 
     ```         
     Rakesh, D., Elzeiny, R., Vijayakumar, N., & Whittle, S. (2023). A longitudinal study of childhood maltreatment, subcortical development, and subcortico-cortical structural maturational coupling from early to late adolescence. Psychological Medicine, 53(16), 7525–7536. https://doi.org/10.1017/s0033291723001253
     ```
 
-p.  
+q.  
 
     ```         
     Beck, D., Whitmore, L., MacSweeney, N., Brieant, A., Karl, V., de Lange, A.-M. G., Westlye, L. T., Mills, K. L., & Tamnes, C. K. (2025). Dimensions of early-life adversity are differentially associated with patterns of delayed and accelerated brain maturation. Biological Psychiatry, 97(1), 64–72. https://doi.org/10.1016/j.biopsych.2024.07.019
     ```
 
-q.  
+r.  
 
     ```         
     Miller, J. G., Ho, T. C., Humphreys, K. L., King, L. S., Foland-Ross, L. C., Colich, N. L., Ordaz, S. J., Lin, J., & Gotlib, I. H. (2020). Early life stress, frontoamygdala connectivity, and biological aging in adolescence: A longitudinal investigation. Cerebral Cortex, 30(7), 4269–4280. https://doi.org/10.1093/cercor/bhaa057
     ```
 
-r.  
+s.  
 
     ```         
      Muentner, L., Fanning, K., Pritzl, K., Kapoor, A., Weymouth, L., Krishnan, C. A., & Poehlmann, J. (2025). Parental incarceration, attachment to caregivers, and young children’s physiological stress. Developmental Psychobiology, 67(5). https://doi.org/10.1002/dev.70076
@@ -346,13 +368,13 @@ r.
     This mitigation response is aided by attachment security.
     Muentner et al. (2025) highlight how secure attachment can function as a “buffer” and protective element against increased adversity and may prevent or “buffer” the effects of prolonged stress, thus also “buffering” the developing brain against fronto-limbic atrophy.
 
-s.  
+t.  
 
     ```         
     Pollok, T. M., Kaiser, A., Kraaijenvanger, E. J., Monninger, M., Brandeis, D., Banaschewski, T., Eickhoff, S. B., & Holz, N. E. (2022). Neurostructural traces of early life adversities: A meta-analysis exploring age- and adversity-specific effects. Neuroscience & Biobehavioral Reviews, 135. https://doi.org/10.1016/j.neubiorev.2022.104589
     ```
 
-t.  
+u.  
 
     ```         
      Andersen, S. L. (2022). Neuroinflammation, early-life adversity, and brain development. Harvard Review of Psychiatry, 30(1), 24–39. https://doi.org/10.1097/hrp.0000000000000325
@@ -370,7 +392,7 @@ t.
     Andersen (2022) posits that early-life adversity triggers chronic neuroinflammation and, during critical developmental windows, can activate cascades that influence brain plasticity and structure.
     The review offers an empirical foundation that directly connects early-life adversity to detrimental biological mechanisms affecting long-term outcomes.
 
-u.  
+v.  
 
     ```         
     Fleck, L., Buss, C., Bauer, M., Stein, M., Mekle, R., Kock, L., Klawitter, H., Godara, M., Ramler, J., Entringer, S., Endres, M., & Heim, C. (2025). Early‐life adversity predicts markers of aging‐related neuroinflammation, neurodegeneration, and cognitive impairment in women. Annals of Neurology, 97(4), 642–656. https://doi.org/10.1002/ana.27161
@@ -400,7 +422,7 @@ u.
     Crucially, the study offers an empirical foundation outlining structural trends, revealing that high childhood adversity predicts an initial increase in subcortical grey matter volume during younger adulthood, followed by an accelerated volumetric decline later in life.
     Fleck et al. (2025) establish a link by demonstrating that early life stress induces elevated markers of neuroinflammation (glial fibrillary acidic protein) and axonal degradation; most importantly, Fleck et al. (2025) emphasize that these cascades begin before pubertal onset and have the ability to alter cortical structures.
 
-v.  
+w.  
 
     ```         
     Pantell, M. S., Silveira, P. P., de Mendonça Filho, E. J., Wing, H., Brown, E. M., Keeton, V. F., Pokhvisneva, I., O’Donnell, K. J., Neuhaus, J., Hessler, D., Meaney, M. J., Adler, N. E., & Gottlieb, L. M. (2024). Associations between social adversity and biomarkers of inflammation, stress, and aging in children. Pediatric Research, 95(6), 1553–1563. https://doi.org/10.1038/s41390-023-02992-6
@@ -427,23 +449,26 @@ v.
     The study establishes that high cumulative social adversity directly influences systemic inflammatory systems in children.
     This is relevant to my research question and the future implications for research because persistent inflammatory responses can cross the blood-brain barrier, triggering downward cascades that can harm the central nervous system and cortical structures.
 
-w.  
-```
+x.  
+
+```         
 Spear, L. P. (2013). Adolescent Neurodevelopment. *Journal of Adolescent Health, 52*(2).
     <https://doi.org/10.1016/j.jadohealth.2012.05.006>
 ```
 
-x. 
+x.  
 
-```
+```         
 Schalbetter, S. M., von Arx, A. S., Cruz-Ochoa, N., Dawson, K., Ivanov, A., Mueller, F. S., Lin, H.-Y., Amport, R., Mildenberger, W., Mattei, D., Beule, D., Földy, C., Greter, M., Notter, T., & Meyer, U.
     (2022).
     Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.
     *Science Advances*, *8*(9).
     <https://doi.org/10.1126/sciadv.abi6672>
 ```
-y. 
-```
+
+y.  
+
+```         
 Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S.
     (1998a).
     Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults.
