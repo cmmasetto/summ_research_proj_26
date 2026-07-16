@@ -1,0 +1,149 @@
+---
+title: "Literature Review Draft Outline 1"
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+**Section I: Introduction**
+
+-   ACE’s defined → DMAP framework → parental incarceration as a
+    multidimensional deprivation/threat stressor
+
+-   what are ACEs (Felitti, 1998)
+
+-   ACE's fail to properly contextualize individual pathways or
+    microstructural changes.
+
+-   The original framework presents that all ACE's affect the brain in
+    the same way. this is why McLaughlin's DMAP (threat vs deprivation)
+    framework is necessary.
+
+-   Parental incarceration is a unique stressor because
+
+    -   a) it's not an isolated event + predisposes individuals to other
+        types of stressors/adversities
+
+    -   b) it falls under the deprivation/threat framework that
+        McLaughlin proposes
+
+    -   c) this in turn makes parental incarceration an early life
+        stressor that becomes multi-dimensional and can disrupt neural
+        development via different pathways
+
+-   *ACEs Framework*
+
+    -   Felitti (1998)
+
+    -   Turney (2018)
+
+    -   Rhodes et al. (2023)
+
+-   *DMAP Framework*
+
+    -   McLaughlin et al. (2014)
+
+    -    McLaughlin et al. (2019)
+
+-   *PI As Deprivation + Threat Stressor*
+
+    -   Arditti (2012)
+
+    -   Del Toro et al. (2022)
+
+    -   Muentner et al. (2025)
+
+**Section II: Why Adolescence is the Critical Window**
+
+-   Normative development → pruning/proliferation → chronic stress
+    disrupts the trajectory childhood is where a lot of synaptic
+    proliferation occurs; children build new connections via experiences
+
+-   however, during adolescence, pruning occurs, and certain connections
+    either cement themselves or are destroyed
+
+-   by arguing that parental incarceration is persistent and chronic;
+    the body is constantly exposed to stress
+
+-   therefore, this heightened state has devastating consequences on
+    what is considered typical neurodevelopment
+
+-   what is typical neurodevelopment
+
+-   what does neurodevelopment look like after adversity
+
+-   *Normative Adolescent Neurodevelopment*
+
+    -   Spear (2013)
+
+    -   Mills et al. (2016)
+
+    -   Tamnes et al. (2017)
+
+    -   Piekarski et al. (2023)
+
+-   *Adversity Disrupts Typical Trajectory*
+
+    -   Machlin et al. (2023)
+
+    -   Beck et al. (2025)
+
+    -   Shaul et al. (2026)
+
+    -   Rakesh et al. (2023)
+
+    -   Cohodes et al. (2020)
+
+    -   Hardi et al. (2022)
+
+    -   Miller et al. (2020)
+
+**Section III: Linking Neurostructural change to Micro-Level
+Mechanisms**
+
+-   Chronic stress → HPA dysregulation → measurable structural brain
+    changes
+
+-   *HPA axis dysregulation under chronic stress*
+
+    -   Teicher et al. (2003)
+
+    -   McLaughlin et al. (2014)
+
+-   *Structural consequences of chronic stress*
+
+    -   Pollock et al. (2022)
+
+    -   McLaughlin et al. (2019)
+
+-   *PI-specific stress bridge*
+
+    -   Muentner et al. (2025)
+
+    -   Pantell et al. (2024)
+
+**Section IV: Chronic Neuroinflammation + future directions**
+
+-   Microglial activation → disrupted pruning → adult outcomes →
+    empirical next steps
+
+-   *Neuroinflammation as outcome of Early Adversity*
+
+    -   Anderson (2022)
+
+    -   Fleck et al. (2025)
+
+    -   Pantell et al. (2024)
+
+-   *Microglia + Adolescent Pruning*
+
+    -   Schalbetter et al. (2022)
+
+-   *Accelerated Aging + Adult Outcomes*
+
+    -   Beck et al. (2025)
+
+    -   Shaul et al. (2026)
+
+    -   Miller et al. (2020)
