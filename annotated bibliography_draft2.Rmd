@@ -94,25 +94,28 @@ e.
     Turney, K. (2018). Adverse childhood experiences among children of incarcerated parents. Children and Youth Services Review, 89, 218–225. https://doi.org/10.1016/j.childyouth.2018.04.033
     ```
 
-    Turney (2018) utilized data from the 2016 National Survey of Children’s Health to demonstrate that children of incarcerated parents are disproportionately exposed to other adverse childhood experiences (ACEs).
-    Turney (2018) investigated how parental incarceration relates to six other distinct childhood adversities: parental divorce/separation, parental death, household abuse, neighborhood violence exposure, household mental illness, and household substance problems.
-    Additionally, Turney (2018) explored whether the relationship between parental incarceration and these additional ACEs varies depending on a child’s age or ethnicity.
-    Turney (2018) posited that children of incarcerated parents represent a highly disadvantaged group who are particularly vulnerable to experiencing an accumulation of other adverse childhood experiences.
-    Turney (2018) analyzed data from 47,262 non-institutionalized U.S. children.
-    Participants ranged in age from 0 to 17 years, with 48.9% identifying as female and 51.1% as male.
-    The sample consisted of 52.6% White, 24.2% Hispanic, 12.3% Black, 5.7% other races, and 5.0% multiracial children.
-    Data were collected from a single adult respondent who possessed the most information about the child.
-    Parental incarceration and the six other ACE indicators were identified as binary variables.
-    The sample depicted 67.5% of children being exposed to zero ACE’s, 20.2% being exposed to one ACE, 6.8% being exposed to two ACEs, 2.9% being exposed to three ACEs, 1.7% being exposed to four ACEs, 0.8% being exposed to five ACEs, and 0.1% being exposed to six ACE’s (Turney, 2018).
-    The analyses run by Turney (2018) provided full support for the original hypothesis.
-    Parental incarceration significantly predicted a higher overall count of ACEs, as well as significantly elevated odds for all six other individual categories (Turney, 2018).
-    Additionally, there was also a significant association between parental incarceration and other ACE’s, especially in children ages 0 to 6 (Turney, 2018).
-    Turney (2018) notes several limitations: lack of temporal precedence, lack of incarceration context, and lack of other impactful ACEs, such as omitted measures for emotional and sexual abuse.
-    The study conducted by Turney (2018) provides no neurobiological data or physiological measures.
-    However, the conclusions drawn by Turney (2018) provide statistical evidence for the prolonged effect parental incarceration has on a child’s home environment.
-    By demonstrating that children with an incarcerated parent are at a heightened vulnerability for other ACE’s, Turney (2018) highlights that parental incarceration is a persistent stressor and does not occur as an isolated event.
-    Additionally, Turney (2018) notes that early-to-late adolescents (ages 13-17) have experienced parental incarceration.
-    By having a massive and persistent stressor occur during a critical window of development, parental incarceration and the stress it induces influence structural remodeling by triggering inflammatory processes.
+Turney (2018) utilized data from the 2016 National Survey of Children’s Health to demonstrate that children of incarcerated parents are disproportionately exposed to other adverse childhood experiences (ACEs).
+Turney (2018) investigated how parental incarceration relates to six other distinct childhood adversities: parental divorce/separation, parental death, household abuse, neighborhood violence exposure, household mental illness, and household substance problems.
+Additionally, Turney (2018) explored whether the relationship between parental incarceration and these additional ACEs varies depending on a child’s age or ethnicity.
+Turney (2018) posited that children of incarcerated parents represent a highly disadvantaged group who are particularly vulnerable to experiencing an accumulation of other adverse childhood experiences.
+
+Turney (2018) analyzed data from 47,262 non-institutionalized U.S. children.
+Participants ranged in age from 0 to 17 years, with 48.9% identifying as female and 51.1% as male.
+The sample consisted of 52.6% White, 24.2% Hispanic, 12.3% Black, 5.7% other races, and 5.0% multiracial children.
+Data were collected from a single adult respondent who possessed the most information about the child.
+Parental incarceration and the six other ACE indicators were identified as binary variables.
+The sample depicted 67.5% of children being exposed to zero ACE’s, 20.2% being exposed to one ACE, 6.8% being exposed to two ACEs, 2.9% being exposed to three ACEs, 1.7% being exposed to four ACEs, 0.8% being exposed to five ACEs, and 0.1% being exposed to six ACE’s (Turney, 2018).
+
+The analyses run by Turney (2018) provided full support for the original hypothesis.
+Parental incarceration significantly predicted a higher overall count of ACEs, as well as significantly elevated odds for all six other individual categories (Turney, 2018).
+Additionally, there was also a significant association between parental incarceration and other ACE’s, especially in children ages 0 to 6 (Turney, 2018).
+Turney (2018) notes several limitations: lack of temporal precedence, lack of incarceration context, and lack of other impactful ACEs, such as omitted measures for emotional and sexual abuse.
+
+The study conducted by Turney (2018) provides no neurobiological data or physiological measures.
+However, the conclusions drawn by Turney (2018) provide statistical evidence for the prolonged effect parental incarceration has on a child’s home environment.
+By demonstrating that children with an incarcerated parent are at a heightened vulnerability for other ACE’s, Turney (2018) highlights that parental incarceration is a persistent stressor and does not occur as an isolated event.
+Additionally, Turney (2018) notes that early-to-late adolescents (ages 13-17) have experienced parental incarceration.
+By having a massive and persistent stressor occur during a critical window of development, parental incarceration and the stress it induces influence structural remodeling by triggering inflammatory processes.
 
 f.  
 
@@ -120,23 +123,26 @@ f.
     Rhodes, C. A., Thomas, N., O’Hara, K. L., Hita, L., Blake, A., Wolchik, S. A., Fisher, B., Freeman, M., Chen, D., & Berkel, C. (2023). Enhancing the focus: How does parental incarceration fit into the overall picture of adverse childhood experiences (ACEs) and positive childhood experiences (PCEs)? Research on Child and Adolescent Psychopathology, 51(12), 1933–1944. https://doi.org/10.1007/s10802-023-01142-0
     ```
 
-    Rhodes et al. (2023) utilized data from the National Survey for Children’s Health to analyze the associations between children with an incarcerated parent (CIP), co-occurring adverse childhood experiences (ACEs), and potential buffering effects of positive childhood experiences (PCEs) on CIP and non-CIP mental health.
-    Rhodes et al. (2023) posited that CIP would exhibit a higher accumulation of co-occurring ACEs, lower levels of PCEs, and higher rates of mental health problems.
-    They also hypothesized that parental incarceration status would significantly moderate these relationships, predicting that the buffering effects of PCEs would be stronger and more pronounced for CIPs than non-CIPs.
-    Rhodes et al. (2023) analyzed data from 19,210 parents/caregivers who provided data on one child between the ages of 8 and 17 years old.
-    The original sample was divided into two groups: non-CIP and CIP.
-    For the non-CIP group (93% of sample), participants were approximately 52% male and 70% non-Latinx White, 12% Latinx/Hispanic, 6% Black/African American, 5% Asian, 1% Native American/Alaskan, \<1% Native Hawaiian/Pacific Islander, 3% other, and 7% multi-racial.
-    For the CIP group (7% of sample), participants were approximately 51% male and 58% non-Latinx/White, 15% Latinx/Hispanic, 14% Black/African American, 3% Native American/Alaskan, 1% Asian, \<1% Native Hawaiian/Pacific Islander, 3% Other, and 11% multi-racial.
-    Caregivers were predominantly women, ages 24-55.
-    91% of caregivers in the non-CIP group were biological or adoptive parents, while in the CIP group, 63% corresponded to biological or adoptive parents, and 25% were grandparents.
-    Analyses conducted by Rhodes et al. (2023) confirmed that CIPs have significantly higher odds of experiencing other severe ACEs, report significantly fewer total and individual PCEs, and have increased chances of experiencing a mental health problem.
-    Contrary to what was originally hypothesized, total PCEs did not buffer the relationship between parental incarceration and mental health problems (Rhodes et al., 2023).
-    On an individual level, the effect of collective socialization was significant but went in the opposite direction expected (Rhodes et al., 2023).
-    Several limitations were noted in the study: secondary dataset constraints, absence of an incarceration context, a dichotomous outcome measure, parent/caregiver self-report bias, and the inability to establish temporal precedence due to the study’s cross-sectional design.
-    The study conducted by Rhodes et al. (2023) does not include neuroimaging data.
-    Still, it does provide empirical support establishing that parental incarceration is a significant stressor that uniquely accelerates behavioral and emotional dysregulation.
-    Rhodes et al. (2023) highlight that parental incarceration triggers profound strain and stress pathways in children; additionally, Rhodes et al. (2023) illustrate that PCEs fail to act as an effective buffer against the emotional turmoil that accompanies parental incarceration.
-    This finding prompts a more thorough examination of internal neurobiological mechanisms that influence outcomes.
+Rhodes et al. (2023) utilized data from the National Survey for Children’s Health to analyze the associations between children with an incarcerated parent (CIP), co-occurring adverse childhood experiences (ACEs), and potential buffering effects of positive childhood experiences (PCEs) on CIP and non-CIP mental health.
+Rhodes et al. (2023) posited that CIP would exhibit a higher accumulation of co-occurring ACEs, lower levels of PCEs, and higher rates of mental health problems.
+They also hypothesized that parental incarceration status would significantly moderate these relationships, predicting that the buffering effects of PCEs would be stronger and more pronounced for CIPs than non-CIPs.
+
+Rhodes et al. (2023) analyzed data from 19,210 parents/caregivers who provided data on one child between the ages of 8 and 17 years old.
+The original sample was divided into two groups: non-CIP and CIP.
+For the non-CIP group (93% of sample), participants were approximately 52% male and 70% non-Latinx White, 12% Latinx/Hispanic, 6% Black/African American, 5% Asian, 1% Native American/Alaskan, \<1% Native Hawaiian/Pacific Islander, 3% other, and 7% multi-racial.
+For the CIP group (7% of sample), participants were approximately 51% male and 58% non-Latinx/White, 15% Latinx/Hispanic, 14% Black/African American, 3% Native American/Alaskan, 1% Asian, \<1% Native Hawaiian/Pacific Islander, 3% Other, and 11% multi-racial.
+Caregivers were predominantly women, ages 24-55.
+91% of caregivers in the non-CIP group were biological or adoptive parents, while in the CIP group, 63% corresponded to biological or adoptive parents, and 25% were grandparents.
+
+Analyses conducted by Rhodes et al. (2023) confirmed that CIPs have significantly higher odds of experiencing other severe ACEs, report significantly fewer total and individual PCEs, and have increased chances of experiencing a mental health problem.
+Contrary to what was originally hypothesized, total PCEs did not buffer the relationship between parental incarceration and mental health problems (Rhodes et al., 2023).
+On an individual level, the effect of collective socialization was significant but went in the opposite direction expected (Rhodes et al., 2023).
+Several limitations were noted in the study: secondary dataset constraints, absence of an incarceration context, a dichotomous outcome measure, parent/caregiver self-report bias, and the inability to establish temporal precedence due to the study’s cross-sectional design.
+
+The study conducted by Rhodes et al. (2023) does not include neuroimaging data.
+Still, it does provide empirical support establishing that parental incarceration is a significant stressor that uniquely accelerates behavioral and emotional dysregulation.
+Rhodes et al. (2023) highlight that parental incarceration triggers profound strain and stress pathways in children; additionally, Rhodes et al. (2023) illustrate that PCEs fail to act as an effective buffer against the emotional turmoil that accompanies parental incarceration.
+This finding prompts a more thorough examination of internal neurobiological mechanisms that influence outcomes.
 
 g.  
 
@@ -144,31 +150,33 @@ g.
      Del Toro, J., Fine, A., & Wang, M.-T. (2022). The intergenerational effects of paternal incarceration on children’s social and psychological well-being from early childhood to adolescence. Development and Psychopathology, 35(2), 558–569. https://doi.org/10.1017/s0954579421001693
     ```
 
-    Del Toro, Fine, and Wang (2023) investigated the psychological pathways through which parental incarceration negatively impacts children as they grow up.
-    The authors posited four research questions: does experiencing parental incarceration during childhood (ages 5 and 9) predict increased rule-breaking behaviors later in development (ages 9 and 15, respectively), do children’s depressive symptoms at age 9 mediate the long-term relationship between early parental incarceration at age 5 and adolescent rule-breaking at age 15, are the behavioral consequences of paternal incarceration distinct from other forms of father loss; and do the harmful effects of parental incarceration vary in strength across childhood and adolescence or do they remain the same?
-    The study utilized a large sample of 4,327 families drawn from the Fragile Families and Child Wellbeing (FFCW) Study.
-    The sample was evaluated longitudinally at three distinct time points, when the children were, on average, 5, 9, and 15 years old.
-    Demographically, the sample was predominantly comprised of low-income families and communities of color: 45% of the children identified as Black, 22% Latino, 16% White, 17% mixed race/other.
-    Gender was evenly split with approximately 52% girls and 48% boys.
-    Socioeconomically, most families were highly disadvantaged, and maternal education levels indicated that most did not hold a bachelor’s degree.
-    At the final data collection interval, 47% of children had experienced paternal incarceration at least once in their lives.
-    Data were collected over 10 years, with researchers combining parent surveys and disposition records to assess paternal incarceration.
-    To measure children’s socio-emotional adjustment, primary caregivers completed the Rule-Breaking Behaviors and Internalizing Symptoms subscales of the Child Behavior Checklist (CBCL) at all three data collection points.
-    Children were tasked with self-reporting their own rule-breaking and depressive symptoms at ages 9 and 15 using standardized self-description and depression scales.
-    The statistical analyses yielded full support for the authors’ hypotheses.
-    For the first hypothesis, within-subjects analyses depicted that experiencing paternal incarceration at ages 5 and 9 significantly predicted increases in children’s rule-breaking behaviors at ages 9 and 15, respectively.
-    Additionally, paternal incarceration at age 5 had a significant effect on adolescent rule-breaking at age 15 via child depressive symptoms at age 9.
-    This indicates a clear pathway between psychological distress and behavioral coping mechanisms.
-    Regarding the third hypothesis, paternal incarceration predicted future rule-breaking significantly more strongly than other forms of father loss.
-    Additionally, controlling for different pathways of paternal loss demonstrated that the impact of paternal incarceration remains equally powerful across childhood and into adolescence.
-    Several limitations were noted in the study.
-    First, the data from the FFCW study did not specify the exact reason or type of infraction that led to the father’s incarceration.
-    Second, the authors note that the sample depicted relatively low baseline levels of depressive symptoms in the children, which could suggest natural youth resilience or a reluctance to self-report emotional vulnerability.
-    Third, the sample consisted primarily of unmarried parents; therefore, the findings may be weaker than those from children with married parents.
-    The study conducted by Del Toro, Fine, and Waters (2023) relates to my research question by providing an empirical timeline and a behavioral-psychological framework that depicts neurodevelopmental changes.
-    Del Toro, Fine, and Waters (2023) illustrated that there is no significant longitudinal link between paternal absence due to circumstances other than incarceration from childhood to early adolescence.
-    However, when the absence was attributed to incarceration, it significantly predicted long-term behavioral and emotional degradation.
-    This indicates that parental incarceration is a distinctive form of trauma that manifests itself as persistent stress across critical developmental periods.
+Del Toro, Fine, and Wang (2023) investigated the psychological pathways through which parental incarceration negatively impacts children as they grow up.
+The authors posited four research questions: does experiencing parental incarceration during childhood (ages 5 and 9) predict increased rule-breaking behaviors later in development (ages 9 and 15, respectively), do children’s depressive symptoms at age 9 mediate the long-term relationship between early parental incarceration at age 5 and adolescent rule-breaking at age 15, are the behavioral consequences of paternal incarceration distinct from other forms of father loss; and do the harmful effects of parental incarceration vary in strength across childhood and adolescence or do they remain the same?
+The study utilized a large sample of 4,327 families drawn from the Fragile Families and Child Wellbeing (FFCW) Study.
+The sample was evaluated longitudinally at three distinct time points, when the children were, on average, 5, 9, and 15 years old.
+Demographically, the sample was predominantly comprised of low-income families and communities of color: 45% of the children identified as Black, 22% Latino, 16% White, 17% mixed race/other.
+Gender was evenly split with approximately 52% girls and 48% boys.
+Socioeconomically, most families were highly disadvantaged, and maternal education levels indicated that most did not hold a bachelor’s degree.
+At the final data collection interval, 47% of children had experienced paternal incarceration at least once in their lives.
+Data were collected over 10 years, with researchers combining parent surveys and disposition records to assess paternal incarceration.
+To measure children’s socio-emotional adjustment, primary caregivers completed the Rule-Breaking Behaviors and Internalizing Symptoms subscales of the Child Behavior Checklist (CBCL) at all three data collection points.
+Children were tasked with self-reporting their own rule-breaking and depressive symptoms at ages 9 and 15 using standardized self-description and depression scales.
+
+The statistical analyses yielded full support for the authors’ hypotheses.
+For the first hypothesis, within-subjects analyses depicted that experiencing paternal incarceration at ages 5 and 9 significantly predicted increases in children’s rule-breaking behaviors at ages 9 and 15, respectively.
+Additionally, paternal incarceration at age 5 had a significant effect on adolescent rule-breaking at age 15 via child depressive symptoms at age 9.
+This indicates a clear pathway between psychological distress and behavioral coping mechanisms.
+Regarding the third hypothesis, paternal incarceration predicted future rule-breaking significantly more strongly than other forms of father loss.
+Additionally, controlling for different pathways of paternal loss demonstrated that the impact of paternal incarceration remains equally powerful across childhood and into adolescence.
+Several limitations were noted in the study.
+First, the data from the FFCW study did not specify the exact reason or type of infraction that led to the father’s incarceration.
+Second, the authors note that the sample depicted relatively low baseline levels of depressive symptoms in the children, which could suggest natural youth resilience or a reluctance to self-report emotional vulnerability.
+Third, the sample consisted primarily of unmarried parents; therefore, the findings may be weaker than those from children with married parents.
+
+The study conducted by Del Toro, Fine, and Waters (2023) relates to my research question by providing an empirical timeline and a behavioral-psychological framework that depicts neurodevelopmental changes.
+Del Toro, Fine, and Waters (2023) illustrated that there is no significant longitudinal link between paternal absence due to circumstances other than incarceration from childhood to early adolescence.
+However, when the absence was attributed to incarceration, it significantly predicted long-term behavioral and emotional degradation.
+This indicates that parental incarceration is a distinctive form of trauma that manifests itself as persistent stress across critical developmental periods.
 
 h.  
 
@@ -176,30 +184,32 @@ h.
     Mills, K. L., Goddings, A.-L., Herting, M. M., Meuwese, R., Blakemore, S.-J., Crone, E. A., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., & Tamnes, C. K. (2016). Structural Brain Development between childhood and adulthood: Convergence across four longitudinal samples. NeuroImage, 141, 273–281. https://doi.org/10.1016/j.neuroimage.2016.07.044
     ```
 
-    Mills et al. (2016) sought to map and replicate brain development across critical developmental windows.
-    Mills et al. (2016) addressed the overarching questions of how gross brain volume develops between childhood and early adulthood, and how accounting for global measures of brain size affects the observed developmental trajectories and sex comparisons.
-    Mills et al. (2016) posited that intracranial volume (ICV), whole brain volume (WBV), and regional brain volumes (cortical grey matter (CGMV) and cerebral white matter (CWMV)) would demonstrate continued development throughout adolescence.
-    Mills et al. (2016) predicted that standardizing across all samples would yield similar trajectories and accounting for different size correction methods would highlight distinct effects on modeled trajectories and modulate the observed effects of sex.
-    Mills et al. (2016) analyzed data from 391 participants who underwent a total of 852 longitudinal structural MRI scans.
-    The sample consisted of 200 females and 191 males with an age range of 7 to 29.9 years of age.
-    Data converged from four longitudinal samples across three countries: NIH Child Psychiatry Branch (33 participants, 10 female, 23 male, ages 7 to 29.9 years), University of Pittsburgh (73 participants, 41 female, 32 males, ages 10.1 to 16.2 years), Neurocognitive Development Study (76 participants, 37 female, 39 males, ages 8.2-21.9 years), and Braintime Study (209 participants, 112 female, 97 male, ages 8.0 to 26.6 years).
-    MRI scans were processed using the FreeSurfer 5.3 image analysis suite and its unique analysis tools to extract volumetric measures of ICV, WBV, CGMV, and CWMV.
-    The analyses conducted by Mills et al. (2016) yielded full support for the study’s hypotheses.
-    The study found that both ICV and WBV showed continued and unique development through adolescence: ICV increased approximately 1% annually before stabilizing in late adolescence and WBV steadily decreased across adolescence.
-    Additionally, CGMV was highest in childhood and decreased steadily through the second decade while CWMV increased until mid-to-late adolescence before decelerating (Mills et al., 2016).
-    The methods used to control for brain size altered resulting trajectories.
-    The ICV correction amplified CGMV changes and flattened CWMV trajectories.
-    Concomitantly, WBV corrections reduced CGMV changes and made CWMV increases more significant (Mills et al., 2016).
-    Furthermore, brain size corrections altered sex differences.
-    The covariate correction kept sex differences when using ICV but eliminated them when using WBV.
-    Mills et al. (2016) note several limitations in their study.
-    Most importantly, macro-structural changes captured via structural MRI cannot be directly tied to specific micro-level cellular or synaptic mechanisms.
-    Distinguishing what changes are occurring at the micro-level requires additional measures.
-    Additionally, Mills et al. (2016) also discuss mathematical limitations in the models generated.
-    The Pittsburgh University data, having a narrow age range, yielded a linear model, while the other samples, with large age ranges, yielded non-linear trajectories (Mills et al., 2016).
-    Mills et al. (2016) provide a structural baseline to establish a pathway that addresses my research question.
-    Mills et al. (2016) provide evidence that healthy CGMV is at its highest in childhood and undergoes a steady decline throughout adolescence.
-    This can be utilized to compare typical cortical thinning against stress-induced tissue loss.
+Mills et al. (2016) sought to map and replicate brain development across critical developmental windows.Mills et al. (2016) addressed the overarching questions of how gross brain volume develops between childhood and early adulthood, and how accounting for global measures of brain size affects the observed developmental trajectories and sex comparisons.
+Mills et al. (2016) posited that intracranial volume (ICV), whole brain volume (WBV), and regional brain volumes (cortical grey matter (CGMV) and cerebral white matter (CWMV)) would demonstrate continued development throughout adolescence.
+Mills et al. (2016) predicted that standardizing across all samples would yield similar trajectories and accounting for different size correction methods would highlight distinct effects on modeled trajectories and modulate the observed effects of sex.
+
+Mills et al. (2016) analyzed data from 391 participants who underwent a total of 852 longitudinal structural MRI scans.
+The sample consisted of 200 females and 191 males with an age range of 7 to 29.9 years of age.
+Data converged from four longitudinal samples across three countries: NIH Child Psychiatry Branch (33 participants, 10 female, 23 male, ages 7 to 29.9 years), University of Pittsburgh (73 participants, 41 female, 32 males, ages 10.1 to 16.2 years), Neurocognitive Development Study (76 participants, 37 female, 39 males, ages 8.2-21.9 years), and Braintime Study (209 participants, 112 female, 97 male, ages 8.0 to 26.6 years).
+MRI scans were processed using the FreeSurfer 5.3 image analysis suite and its unique analysis tools to extract volumetric measures of ICV, WBV, CGMV, and CWMV.
+
+The analyses conducted by Mills et al. (2016) yielded full support for the study’s hypotheses.
+The study found that both ICV and WBV showed continued and unique development through adolescence: ICV increased approximately 1% annually before stabilizing in late adolescence and WBV steadily decreased across adolescence.
+Additionally, CGMV was highest in childhood and decreased steadily through the second decade while CWMV increased until mid-to-late adolescence before decelerating (Mills et al., 2016).
+The methods used to control for brain size altered resulting trajectories.
+The ICV correction amplified CGMV changes and flattened CWMV trajectories.
+Concomitantly, WBV corrections reduced CGMV changes and made CWMV increases more significant (Mills et al., 2016).
+Furthermore, brain size corrections altered sex differences.
+The covariate correction kept sex differences when using ICV but eliminated them when using WBV.
+Mills et al. (2016) note several limitations in their study.
+Most importantly, macro-structural changes captured via structural MRI cannot be directly tied to specific micro-level cellular or synaptic mechanisms.
+Distinguishing what changes are occurring at the micro-level requires additional measures.
+Additionally, Mills et al. (2016) also discuss mathematical limitations in the models generated.
+The Pittsburgh University data, having a narrow age range, yielded a linear model, while the other samples, with large age ranges, yielded non-linear trajectories (Mills et al., 2016).
+
+Mills et al. (2016) provide a structural baseline to establish a pathway that addresses my research question.
+Mills et al. (2016) provide evidence that healthy CGMV is at its highest in childhood and undergoes a steady decline throughout adolescence.
+This can be utilized to compare typical cortical thinning against stress-induced tissue loss.
 
 i.  
 
@@ -207,23 +217,25 @@ i.
     Piekarski, D. J., Colich, N. L., & Ho, T. C. (2023). The effects of puberty and sex on Adolescent White Matter Development: A systematic review. Developmental Cognitive Neuroscience, 60, 101214. https://doi.org/10.1016/j.dcn.2023.101214
     ```
 
-    Piekarski et al. (2023) sought to examine if there are consistent associations between measures of pubertal development and morphological and microstructural properties of white matter (WM) across human and non-human species.
-    Furthermore, Piekarski et al. (2023) sought to identify whether there are sex differences in WM trajectories across development.
-    Piekarski et al. (2023) analyzed data from 90 empirical studies (75 human and 15 animal).
-    All studies were identified using PRISMA guidelines.
-    For the human studies, Piekarski et al. (2023) identified cross-sectional and longitudinal cohorts with male and female participants.
-    55 of the total human studies dealt with sex differences.
-    For the non-human studies, Piekarski et al. (2023) identified studies utilizing multiple species.
-    Piekarski et al.’s (2023) review indicated that advancing age and puberty are associated with increases in white matter volumes.
-    Males consistently showed greater WM volumes, while girls appeared to have more mature white matter microstructure (Piekarski et al., 2023).
-    In this review, Piekarski et al. (2023) note that several of the studies analyzed have focused on the corpus callosum, a region responsible for a range of cognitive and affective functions.
-    Piekarski et al. (2023) note that the corpus callosum shows strong evidence of sex differences that are strongly associated with pubertal maturation and are independent of age.
-    Overall, Piekarski et al. (2023) assert that it is imperative to consider an adolescent’s pubertal status and hormone levels as independent drivers of WM structural changes.
-    In the limitations presented by Piekarski et al. (2023), the most important one noted is the imaging constraint of diffusion tensor imaging.
-    Given that diffusion imaging occurs at the millimeter scale and axons are at the micrometer scale, it becomes difficult to model and distinguish axon orientations accurately (Piekarski et al., 2023).
-    The review conducted by Piekarski et al. (2023) is relevant to my research question, as it provides a foundational trajectory of WM volume across a critical developmental window and accounts for differences in sex and pubertal status.
-    The review by Piekarski et al. (2023) establishes a baseline for mapping WM volume trajectories and, consequently, what typical development should look like in adolescence.
-    With this baseline, it is easier to elucidate how early-life adversity can impact structural remodeling and development.
+Piekarski et al. (2023) sought to examine if there are consistent associations between measures of pubertal development and morphological and microstructural properties of white matter (WM) across human and non-human species.
+Furthermore, Piekarski et al. (2023) sought to identify whether there are sex differences in WM trajectories across development.
+Piekarski et al. (2023) analyzed data from 90 empirical studies (75 human and 15 animal).
+All studies were identified using PRISMA guidelines.
+For the human studies, Piekarski et al. (2023) identified cross-sectional and longitudinal cohorts with male and female participants.
+55 of the total human studies dealt with sex differences.
+For the non-human studies, Piekarski et al. (2023) identified studies utilizing multiple species.
+
+Piekarski et al.’s (2023) review indicated that advancing age and puberty are associated with increases in white matter volumes.
+Males consistently showed greater WM volumes, while girls appeared to have more mature white matter microstructure (Piekarski et al., 2023).
+In this review, Piekarski et al. (2023) note that several of the studies analyzed have focused on the corpus callosum, a region responsible for a range of cognitive and affective functions.
+Piekarski et al. (2023) note that the corpus callosum shows strong evidence of sex differences that are strongly associated with pubertal maturation and are independent of age.
+Overall, Piekarski et al. (2023) assert that it is imperative to consider an adolescent’s pubertal status and hormone levels as independent drivers of WM structural changes.
+In the limitations presented by Piekarski et al. (2023), the most important one noted is the imaging constraint of diffusion tensor imaging.
+Given that diffusion imaging occurs at the millimeter scale and axons are at the micrometer scale, it becomes difficult to model and distinguish axon orientations accurately (Piekarski et al., 2023).
+
+The review conducted by Piekarski et al. (2023) is relevant to my research question, as it provides a foundational trajectory of WM volume across a critical developmental window and accounts for differences in sex and pubertal status.
+The review by Piekarski et al. (2023) establishes a baseline for mapping WM volume trajectories and, consequently, what typical development should look like in adolescence.
+With this baseline, it is easier to elucidate how early-life adversity can impact structural remodeling and development.
 
 j.  
 
@@ -231,25 +243,27 @@ j.
      Cohodes, E. M., Kitt, E. R., Baskin‐Sommers, A., & Gee, D. G. (2020). Influences of early‐life stress on frontolimbic circuitry: Harnessing a dimensional approach to elucidate the effects of heterogeneity in stress exposure. Developmental Psychobiology, 63(2), 153–172. https://doi.org/10.1002/dev.21969
     ```
 
-    Cohodes et al. (2020) synthesized decades of empirical findings from both human neuroimaging and animal models to examine how early-life stress impacts the structure and function of frontolimbic circuitry.
-    Cohodes et al. (2020) identify six key dimensions of stress exposure that uniquely drive alterations in frontolimbic circuitry: timing, type, severity, controllability, predictability, and caregiver involvement.
-    Cohodes et al. (2020) posited that early-life stress cannot be defined as a single experience; instead, it encompasses specific experiential, environmental, and temporal dimensions of stress that moderate frontolimbic maturation.
-    Furthermore, they hypothesize that certain dimensions are highly pliable during specific developmental windows, whereas predictability and caregiving act as buffers during infancy and early childhood, and controllability becomes prominent during adolescence.
-    Cohodes et al. (2020) compiled data across studies that utilized diverse methodologies, including structural and functional magnetic resonance imaging (fMRI and resting-state connectivity) in humans, experimental behavioral manipulations in rodents, self-report and multiple-report data, and objective behavioral coding.
-    These findings were grouped into a matrix based on the stress dimension they belonged to.
-    The cited neuroimaging data demonstrated distinct neural signatures of different stress types.
-    For example, threat-based stress vs. deprivation-based stress map onto completely distinct prefrontal white matter tracts and functional connectivity profiles (Cohodes et al., 2020).
-    Additionally, the studies cited indicate clear, non-linear sensitive periods.
-    In these periods, early deprivation triggers an accelerated maturation of amygdala-mPFC functional connectivity (Cohodes et al., 2020).
-    The cited literature supports their hypothesis by illustrating that a dimensional approach is better suited to capturing neural variance than categorical grouping (Cohodes et al., 2020).
-    Cohodes et al. (2020) note several limitations: collinearity, omitted confounding variables, and measurement constraints.
-    This review supports my original question by providing a framework to explain how parental incarceration acts as a severe developmental shock that alters neurobiological structure during the adolescent window.
-    Cohodes et al. (2020) establish that early parental deprivation alters the regulatory connections between the prefrontal cortex and the amygdala, setting up long-term atypical functional connectivity.
-    Secondly, Cohodes et al. (2020) highlight that early-life adversity can accelerate the neurodevelopmental timeline.
-    Parental incarceration may act as an environmental catalyst that forces premature closure of sensitive periods or accelerated structural remodeling to adapt to an unstable environment.
-    Lastly, incarceration introduces unpredictability and a loss of environmental control for the child.
-    Cohodes et al. (2020) highlight that the capacity for controllability is uniquely significant to neurobiological health in adolescence because a child cannot control or predict a parent’s removal.
-    This deprivation blocks normal adaptive coping mechanisms developed during the adolescent window and can result in structural atrophy or altered frontolimbic volume observed in the future.
+Cohodes et al. (2020) synthesized decades of empirical findings from both human neuroimaging and animal models to examine how early-life stress impacts the structure and function of frontolimbic circuitry.
+Cohodes et al. (2020) identify six key dimensions of stress exposure that uniquely drive alterations in frontolimbic circuitry: timing, type, severity, controllability, predictability, and caregiver involvement.
+Cohodes et al. (2020) posited that early-life stress cannot be defined as a single experience; instead, it encompasses specific experiential, environmental, and temporal dimensions of stress that moderate frontolimbic maturation.
+Furthermore, they hypothesize that certain dimensions are highly pliable during specific developmental windows, whereas predictability and caregiving act as buffers during infancy and early childhood, and controllability becomes prominent during adolescence.
+
+Cohodes et al. (2020) compiled data across studies that utilized diverse methodologies, including structural and functional magnetic resonance imaging (fMRI and resting-state connectivity) in humans, experimental behavioral manipulations in rodents, self-report and multiple-report data, and objective behavioral coding.
+These findings were grouped into a matrix based on the stress dimension they belonged to.
+The cited neuroimaging data demonstrated distinct neural signatures of different stress types.
+For example, threat-based stress vs. deprivation-based stress map onto completely distinct prefrontal white matter tracts and functional connectivity profiles (Cohodes et al., 2020).
+Additionally, the studies cited indicate clear, non-linear sensitive periods.
+In these periods, early deprivation triggers an accelerated maturation of amygdala-mPFC functional connectivity (Cohodes et al., 2020).
+The cited literature supports their hypothesis by illustrating that a dimensional approach is better suited to capturing neural variance than categorical grouping (Cohodes et al., 2020).
+Cohodes et al. (2020) note several limitations: collinearity, omitted confounding variables, and measurement constraints.
+
+This review supports my research question by providing a framework to explain how parental incarceration acts as a severe developmental shock that alters neurobiological structure during the adolescent window.
+Cohodes et al. (2020) establish that early parental deprivation alters the regulatory connections between the prefrontal cortex and the amygdala, setting up long-term atypical functional connectivity.
+Secondly, Cohodes et al. (2020) highlight that early-life adversity can accelerate the neurodevelopmental timeline.
+Parental incarceration may act as an environmental catalyst that forces premature closure of sensitive periods or accelerated structural remodeling to adapt to an unstable environment.
+Lastly, incarceration introduces unpredictability and a loss of environmental control for the child.
+Cohodes et al. (2020) highlight that the capacity for controllability is uniquely significant to neurobiological health in adolescence because a child cannot control or predict a parent’s removal.
+This deprivation blocks normal adaptive coping mechanisms developed during the adolescent window and can result in structural atrophy or altered frontolimbic volume observed in the future.
 
 k.  
 
@@ -263,30 +277,32 @@ l.
     Machlin, L., Egger, H. L., Stein, C. R., Navarro, E., Carpenter, K. L. H., Goel, S., Patel, K. K., Copeland, W. E., & Sheridan, M. A. (2023). Distinct associations of deprivation and threat with alterations in brain structure in early childhood. Journal of the American Academy of Child & Adolescent Psychiatry, 62(8). https://doi.org/10.1016/j.jaac.2023.02.006
     ```
 
-    Machlin et al. (2023) investigated how distinct dimensions of early-life adversity, specifically deprivation and threat, longitudinally predict structural brain development in children.
-    Guided by the Dimensional Model of Adversity and Psychopathology (DMAP), the authors proposed two hypotheses: early life threat exposure would be specifically associated with reduced subcortical volume in the bilateral amygdala and hippocampus, and early life deprivation would be specifically associated with reductions in cortical thickness within the prefrontal, parietal, and temporal association cortices.
-    The sample was comprised of 72 children, 39 females and 33 males.
-    The sample was drawn from the Duke Preschool Anxiety Study, and 44 children within the sample met the criteria for a preschool anxiety disorder.
-    Within the sample, 26 children experienced no deprivation or threat, 29 experienced threat only, 3 experienced deprivation only, and 14 experienced both dimensions.
-    This study utilized a prospective longitudinal design, initially characterizing early adversity during the preschool years and assessing brain structure several years later.
-    During the preschool years, parents completed multiple diagnostic interviews and questionnaires to ascertain dimensions of adversity.
-    The questionnaires utilized compiled scores for threat (abuse, domestic/community violence) and deprivation (neglect, low cognitive stimulation).
-    Years later, the children completed T1-weighted multi-echo structural MRIs.
-    Brain structural metrics were extracted and tabulated using FreeSurfer.
-    The analyses conducted by Machlin et al. (2023) did not support the original hypotheses, but did indicate different significant associations between brain volume, threat, and deprivation.
-    Overall, deprivation and threat were not significantly associated with bilateral volume of the amygdala.
-    Whole-brain analysis indicated that threat was not significantly associated with changes in cortical thickness, as originally hypothesized (Machlin et al., 2023).
-    However, deprivation was significantly associated with increased cortical thickness in the right lateral occipital cortex (Machlin et al., 2023).
-    Deprivation was also significantly associated with increased thickness in the left insula, inferior frontal, superior temporal, superior frontal, and fusiform regions (Machlin et al., 2023).
-    Furthermore, whole-brain analysis indicated that threat was significantly associated with widespread decreases in cortical surface area (Machlin et al., 2023).
-    Specifically, in the left hemisphere, threat was associated with decreases across the prefrontal cortex in the inferior frontal, middle frontal, superior frontal, and medial orbitofrontal regions.
-    (Machlin et al., 2023).
-    Threat was also associated with decreases in the left hemisphere, in the paracentral cortex and caudal anterior cingulate (Machlin et al., 2023).
-    In the right hemisphere, threat was associated with decreases in cortical surface area in the prefrontal cortex, including the middle and superior frontal cortices (Machlin et al., 2023).
-    This study supports my research question by classifying parental criminal justice involvement as an early environmental stressor that, alongside other dimensions of threat and/or adversity, can alter cortical trajectories before adolescence.
-    Machlin et al. (2023) establish that childhood threat exposures strongly predict widespread decreases in cortical surface area across the prefrontal cortex, and deprivation was associated with increases in cortical thickness.
-    While the study did not observe significant reductions in subcortical volume, the authors do note that these reductions manifest themselves later in adolescence.
-    Overall, the study provides a trajectory that highlights how early life stress, such as parental incarceration, can disrupt prefrontal cortical structures during childhood, consequently disrupting the subsequent structural remodeling of subcortical regions as the child transitions into early adolescence.
+Machlin et al. (2023) investigated how distinct dimensions of early-life adversity, specifically deprivation and threat, longitudinally predict structural brain development in children.
+Guided by the Dimensional Model of Adversity and Psychopathology (DMAP), the authors proposed two hypotheses: early life threat exposure would be specifically associated with reduced subcortical volume in the bilateral amygdala and hippocampus, and early life deprivation would be specifically associated with reductions in cortical thickness within the prefrontal, parietal, and temporal association cortices.
+The sample was comprised of 72 children, 39 females and 33 males.
+The sample was drawn from the Duke Preschool Anxiety Study, and 44 children within the sample met the criteria for a preschool anxiety disorder.
+Within the sample, 26 children experienced no deprivation or threat, 29 experienced threat only, 3 experienced deprivation only, and 14 experienced both dimensions.
+This study utilized a prospective longitudinal design, initially characterizing early adversity during the preschool years and assessing brain structure several years later.
+During the preschool years, parents completed multiple diagnostic interviews and questionnaires to ascertain dimensions of adversity.
+The questionnaires utilized compiled scores for threat (abuse, domestic/community violence) and deprivation (neglect, low cognitive stimulation).
+Years later, the children completed T1-weighted multi-echo structural MRIs.
+Brain structural metrics were extracted and tabulated using FreeSurfer.
+
+The analyses conducted by Machlin et al. (2023) did not support the original hypotheses, but did indicate different significant associations between brain volume, threat, and deprivation.
+Overall, deprivation and threat were not significantly associated with bilateral volume of the amygdala.
+Whole-brain analysis indicated that threat was not significantly associated with changes in cortical thickness, as originally hypothesized (Machlin et al., 2023).
+However, deprivation was significantly associated with increased cortical thickness in the right lateral occipital cortex (Machlin et al., 2023).
+Deprivation was also significantly associated with increased thickness in the left insula, inferior frontal, superior temporal, superior frontal, and fusiform regions (Machlin et al., 2023).
+Furthermore, whole-brain analysis indicated that threat was significantly associated with widespread decreases in cortical surface area (Machlin et al., 2023).
+Specifically, in the left hemisphere, threat was associated with decreases across the prefrontal cortex in the inferior frontal, middle frontal, superior frontal, and medial orbitofrontal regions.
+(Machlin et al., 2023).
+Threat was also associated with decreases in the left hemisphere, in the paracentral cortex and caudal anterior cingulate (Machlin et al., 2023).
+In the right hemisphere, threat was associated with decreases in cortical surface area in the prefrontal cortex, including the middle and superior frontal cortices (Machlin et al., 2023).
+
+This study supports my research question by classifying parental criminal justice involvement as an early environmental stressor that, alongside other dimensions of threat and/or adversity, can alter cortical trajectories before adolescence.
+Machlin et al. (2023) establish that childhood threat exposures strongly predict widespread decreases in cortical surface area across the prefrontal cortex, and deprivation was associated with increases in cortical thickness.
+While the study did not observe significant reductions in subcortical volume, the authors do note that these reductions manifest themselves later in adolescence.
+Overall, the study provides a trajectory that highlights how early life stress, such as parental incarceration, can disrupt prefrontal cortical structures during childhood, consequently disrupting the subsequent structural remodeling of subcortical regions as the child transitions into early adolescence.
 
 m.  
 
@@ -294,17 +310,73 @@ m.
      Teicher, M. H., Andersen, S. L., Polcari, A., Anderson, C. M., Navalta, C. P., & Kim, D. M. (2003). The neurobiological consequences of early stress and childhood maltreatment. Neuroscience & Biobehavioral Reviews, 27(1–2), 33–44. https://doi.org/10.1016/s0149-7634(03)00007-1
     ```
 
-n.  Tamnes, C. K., Herting, M. M., Goddings, A.-L., Meuwese, R., Blakemore, S.-J., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., Crone, E. A., & Mills, K. L.
-    (2017).
-    Development of the cerebral cortex across adolescence: A multisample study of inter-related longitudinal changes in cortical volume, surface area, and thickness.
-    The Journal of Neuroscience, 37(12), 3402–3412.
+n.  
+
+```         
+Tamnes, C. K., Herting, M. M., Goddings, A.-L., Meuwese, R., Blakemore, S.-J., Dahl, R. E., Güroğlu, B., Raznahan, A., Sowell, E. R., Crone, E. A., & Mills, K. L. (2017).Development of the cerebral cortex across adolescence: A multisample study of inter-related longitudinal changes in cortical volume, surface area, and thickness. The Journal of Neuroscience, 37(12), 3402–3412.
     <https://doi.org/10.1523/JNEUROSCI.3302-16.2017>
+```
+
+Tamnes et al. (2017) aimed to resolve inconsistencies in pediatric neuroimaging and map typical neurodevelopment across adolescence.
+Tamnes et al. (2017) built their study off Mills et al. (2016).
+Tamnes et al. (2017) delineated the developmental trajectories of global and lobar cortical volume, surface area, and cortical thickness from late childhood to early adulthood.
+They examined whether these developmental patterns and relationships could be replicated across four independent datasets with varying characteristics.
+Tamnes et al. (2017) analyzed MRI data from 388 participants (199 females, 189 males) across four independent studies who underwent 854 MRI scans.
+The ages of participants ranged from 7 to 29.9 years.
+MRI data was obtained from four studies across three counties: NIH Child Psychiatry Branch (33 participants, 10 female, 23 male, ages 7 to 29.9 years), University of Pittsburgh (73 participants, 41 female, 32 males, ages 10.1 to 16.2 years), Neurocognitive Development Study (76 participants, 37 female, 39 males, ages 8.2-21.9 years), and Braintime Study (209 participants, 112 female, 97 male, ages 8.0 to 26.6 years).
+All MRI images were processed and reconstructed using FreeSurfer technology.
+
+The analyses conducted by Tamnes et al. (2017) fully supported the original hypotheses.
+The data showed replicable, widespread nonlinear decreases in cortical volume and thickness across adolescence, and smaller, linear decreases in surface area (Tamnes et al., 2017).
+Tamnes et al. (2017) presented cortical thinning as the main contributor to reductions in overall grey matter volume.
+Additionally, the analyses found positive relationships between thinning and growth, primarily in the sulcal regions of the prefrontal and temporal cortices (Tamnes et al., 2017).
+Negative relationships were observed in the brain’s posterior gyral regions (Tamnes et al., 2017).
+Among the limitations presented by Tamnes et al. (2017), the most notable are the methodologies used to scale brain size, residual head motion inherent in pediatric neuroimaging, and the inability to assess or measure microscopic cellular events with standard MRI.
+
+Tamnes et al. (2017) provide empirical evidence confirming that adolescence is a highly sensitive and dynamic window of neurostructural remodeling.
+The study highlights the complex relationships between changes in thickness and surface area in the cerebral cortex, which vary across different environmental factors.
+Tamnes et al. (2017) emphasize that the dominant feature of adolescent brain maturation is cortical thinning.
+Consequently, if an individual is exposed to persistent stress or trauma during this critical window, the neurobiological toll can alter expected neurostructural development.
 
 o.  
 
     ```         
     Shaul, M., Whittle, S., Dehestani, N., Silk, T. J., & Vijayakumar, N. (2026). Dimensional adversity, brain-age, & mental health: Differences in male and female adolescents. Developmental Cognitive Neuroscience, 78. https://doi.org/10.1016/j.dcn.2026.101671
     ```
+
+Shaul et al. (2026) investigated how individual variation in brain maturity, measured as the brain-age gap (BAG), during early adolescence could explain the relationship between early-life adversity (ELA) and subsequent mental health outcomes.
+Shaul et al. (2026) posited that greater threat exposure would be associated with a positive BAG score, and that this result would explain the relationship between threat and mental health outcomes.
+Additionally, Shaul et al. (2026) expected significant positive associations between all four adversity dimensions examined (threat, psychosocial deprivation, household instability, and economic stressors) and mental health outcomes, specifically internalizing and externalizing symptoms.
+Shaul et al. (2026) made no definitive directional hypotheses regarding deprivation, household instability, or socioeconomic stress, but examined the relationships for potential statistical significance.
+Additionally, Shaul et al. (2026) included an exploratory biological sex-moderated pathway.
+
+Data consisted of MRI data acquired from the Adolescent Brain and Cognitive Development (ABCD) study in the United States.
+A total of 7658 scans were utilized; 46% belonged to female participants and 4,111 to male participants.
+ABCD data were collected across three distinct waves.
+The first data collection moment occurred when participants were, on average, 118 months old for females and 119 months old for males.
+The second collection occurred after two years, and the third one year later.
+Demographically, the sample was predominantly non-Hispanic white, 19-20% non-Hispanic Black, 13-14% non-Hispanic Asian, and 2% identifying as “Other.” Self-report questionnaires were utilized to identify dimensions of adversity, caregiver ratings, and adolescent mental health and behavior.
+
+Shaul et al. (2026) conceptualized early-life adversity as a continuous score using confirmatory factor analysis (CFA) based on 68 baseline questionnaire items.
+CFA yielded four distinct dimensions of adversity: threat (abuse or violence), deprivation (neglect), socioeconomic stressors (financial hardship and/or neighborhood violence), and household instability (caregiver changes, parental mental illness and/or parental substance use. MRI data collected from the ABCD study were analyzed using a pre-trained regression-based machine learning model (SFCN-reg), and predictions of brain age were generated.
+Shaul et al. (2026) calculated BAG by subtracting the participant’s chronological age from the predicted brain age.
+
+The analyses conducted by Shaul et al. (2026) did not support the original mediation hypothesis but did support the direct effects and the biological sex-moderated pathway.
+Shaul et al. (2026) found that global BAG did not explain the relationship between early-life adversity and mental health problems.
+The direct relationship between early-life adversity and global brain age was also non-significant (Shaul et al., 2026).
+Shaul et al. (2026) found that all adversity dimensions significantly predicted higher internalizing and externalizing symptoms at the 3-year follow-up.
+A higher BAG was significantly associated with greater externalizing symptoms but not with internalizing symptoms (Shaul et al., 2026).
+For the sex-moderated hypothesis, Shaul et al. (2026) found that males experiencing higher psychosocial deprivation and lower socioeconomic status had a negative BAG, whereas females had a positive BAG.
+Additionally, a positive BAG was significantly associated with more externalizing behaviors in females (Shaul et al., 2026).
+The inverse was observed in the male participants (Shaul et al., 2026) Shaul et al. (2026) present several limitations.
+Given the nature of the study and the data available, causality cannot be established.
+Secondly, creating a global BAG masks regional developmental variation, which limits generalizability of the findings.
+Generalizability is also limited given the nature of the ABCD study and its skew toward White, high-income, and educated families.
+Additionally, Shaul et al. (2026) used imputation methods to address missing data.
+
+Shaul et al. (2026) provide empirical evidence linking adversity to sex-moderated effects.
+While Shaul et al. (2026) did not observe significant associations between global BAG and adversity, the findings linking adversity to a negative BAG in males and a positive BAG in females are crucial for understanding how adversity can impact the brain.
+Furthermore, not only do Shaul et al. (2026) provide structural data to support my research question, but they also highlight parental incarceration as a persistent stressor.
 
 p.  
 
@@ -330,43 +402,42 @@ s.
      Muentner, L., Fanning, K., Pritzl, K., Kapoor, A., Weymouth, L., Krishnan, C. A., & Poehlmann, J. (2025). Parental incarceration, attachment to caregivers, and young children’s physiological stress. Developmental Psychobiology, 67(5). https://doi.org/10.1002/dev.70076
     ```
 
-    Muentner et al. (2025) investigated how young children’s physiological stress during a parent’s incarceration is associated with experiences of adversity and their attachment to their at-home caregivers.
-    Muentner et al. (2025) proposed three main questions: what other adverse experiences do young children with incarcerated parents have in common, what is the association between cumulative adverse childhood experiences (ACE), attachment, and stress, and does attachment security have a main “buffering” effect on stress hormones or does it interact with adversity in predicting stress hormones.
-    The study consisted of 67 child-caregiver dyads that were separated from a larger demographic pool of 165 incarcerated parents from three separate Midwest County jails.
-    Children’s ages ranged from 2 to 6 years old; 49.3% were female and 50.7% male.
-    Racial demographics indicated that 40.3% of the children were Black, 25.4% White, 11.9% Latinx, and 22.4% other/mixed races.
-    Of the recruited sample, 88.1% of incarcerated parents were fathers and 11.9% were mothers.
-    The age of jailed parents ranged from 21 to 46 years old, with 50.7% of them identifying as Black, 25.4% as White, 3.0% as Latinx, and 16.4% as other.
-    This study utilized a cross-sectional, multi-reported, and multi-method design.
-    Data were collected at a single time point during the parent’s current jail stay.
-    Incarcerated parents were interviewed in a private area within the jail facility, while caregivers were interviewed at home.
-    Caregivers were tasked with completing a modified 24-item version of the Life Experiences Questionnaire (LEQ) to capture adverse life events over the past 12 months.
-    Children were observed at home in 2-to-3-hour visits that included a 15-minute free-play dyadic interaction.
-    Afterward, researchers completed the Attachment Q-sort version 3.0 to assign an attachment security score.
-    Hormonal stress levels were obtained after sampling a 3-cm hair sample clipped from the child’s posterior vertex.
-    This sampling method captured hair cortisol, hair cortisone, and their summed levels over the preceding 3 months.
-    The statistical analyses yielded partial support for Muentner et al.’s (2025) hypotheses.
-    Regarding their first research question, adverse life events for children ranged from 0 to 12 with a mean of 5.16 on the LEQ.
-    The children, apart from experiencing the ACE of parental incarceration, 46.3% of children experienced an additional 0-3 adverse events and 53.7% experienced four or more additional adverse events.
-    For the second research question, no significant association was found linking adversity score with stress; but there was a significant association between stress (specifically cortisone levels) with attachment security.
-    This association indicated that children with more secure attachments had lower levels of cortisone overall, while children with the least secure attachments had the most extreme levels of cortisone.
-    For the third research question, significance varied across the three physiological stress metrics.
-    For hair cortisol, no significant effects were observed.
-    Conversely, the results for hair cortisone were significant.
-    These results depicted attachment security’s promotive effect on stress hormones.
-    The summed levels of hair cortisol and cortisone received partial support, with attachment security being associated with lower combined hair cortisol and cortisone; however, no significant interaction effect was observed.
-    Several methodological limitations restrict the scope and generalizability of the study’s findings.
-    The study’s sample size was small (N = 67), which restricted overall statistical power.
-    Additionally, there was a substantial amount of missing hair data (27%) which required imputation.
-    Due to the study’s cross-sectional nature, the data collection and the absence of a control group preclude any definitive conclusions regarding causality or temporal precedence.
-    Furthermore, the analysis omitted potential confounding variables that could influence stress levels, such as the exact stability or length of the child-caregiver placement, histories of separations, or other traumatic experiences pertinent to the dyad dynamic.
-    The physiological findings are also subject to biological constraints inherent to hair analysis.
-    While Muentner et al.’s (2025) study did not utilize neuroimaging and focuses on an earlier developmental window, it depicts a mechanistic bridge through which structural atrophy/change can occur in children.
-    This study illustrates how frontolimbic structural changes, such as atrophy in the prefrontal cortex or hyperactivity and volume alterations in the amygdala, are influenced by chronic HPA-axis dysregulation.
-    This study contextualizes these physiological findings via hair cortisol and cortisone levels within the context of parental incarceration.
-    Additionally, Muentner et al. (2025) note that the development of physiological stress responses in early children establish a baseline for how children adapt and potentially mitigate stress down the road.
-    This mitigation response is aided by attachment security.
-    Muentner et al. (2025) highlight how secure attachment can function as a “buffer” and protective element against increased adversity and may prevent or “buffer” the effects of prolonged stress, thus also “buffering” the developing brain against fronto-limbic atrophy.
+Muentner et al. (2025) investigated how young children’s physiological stress during a parent’s incarceration is associated with experiences of adversity and their attachment to their at-home caregivers.
+Muentner et al. (2025) proposed three main questions: what other adverse experiences do young children with incarcerated parents have in common, what is the association between cumulative adverse childhood experiences (ACE), attachment, and stress, and does attachment security have a main “buffering” effect on stress hormones or does it interact with adversity in predicting stress hormones.
+
+The study consisted of 67 child-caregiver dyads that were separated from a larger demographic pool of 165 incarcerated parents from three separate Midwest County jails.
+Children’s ages ranged from 2 to 6 years old; 49.3% were female and 50.7% male.
+Racial demographics indicated that 40.3% of the children were Black, 25.4% White, 11.9% Latinx, and 22.4% other/mixed races.
+Of the recruited sample, 88.1% of incarcerated parents were fathers and 11.9% were mothers.The age of jailed parents ranged from 21 to 46 years old, with 50.7% of them identifying as Black, 25.4% as White, 3.0% as Latinx, and 16.4% as other.
+This study utilized a cross-sectional, multi-reported, and multi-method design.
+Data were collected at a single time point during the parent’s current jail stay.Incarcerated parents were interviewed in a private area within the jail facility, while caregivers were interviewed at home.Caregivers were tasked with completing a modified 24-item version of the Life Experiences Questionnaire (LEQ) to capture adverse life events over the past 12 months.
+Children were observed at home in 2-to-3-hour visits that included a 15-minute free-play dyadic interaction.
+Afterward, researchers completed the Attachment Q-sort version 3.0 to assign an attachment security score.Hormonal stress levels were obtained after sampling a 3-cm hair sample clipped from the child’s posterior vertex.This sampling method captured hair cortisol, hair cortisone, and their summed levels over the preceding 3 months.
+
+The statistical analyses yielded partial support for Muentner et al.’s (2025) hypotheses.
+Regarding their first research question, adverse life events for children ranged from 0 to 12 with a mean of 5.16 on the LEQ.
+The children, apart from experiencing the ACE of parental incarceration, 46.3% of children experienced an additional 0-3 adverse events and 53.7% experienced four or more additional adverse events.
+For the second research question, no significant association was found linking adversity score with stress; but there was a significant association between stress (specifically cortisone levels) with attachment security.
+This association indicated that children with more secure attachments had lower levels of cortisone overall, while children with the least secure attachments had the most extreme levels of cortisone.
+For the third research question, significance varied across the three physiological stress metrics.
+For hair cortisol, no significant effects were observed.
+Conversely, the results for hair cortisone were significant.
+These results depicted attachment security’s promotive effect on stress hormones.
+The summed levels of hair cortisol and cortisone received partial support, with attachment security being associated with lower combined hair cortisol and cortisone; however, no significant interaction effect was observed.
+
+Several methodological limitations restrict the scope and generalizability of the study’s findings.
+The study’s sample size was small (N = 67), which restricted overall statistical power.
+Additionally, there was a substantial amount of missing hair data (27%) which required imputation.
+Due to the study’s cross-sectional nature, the data collection and the absence of a control group preclude any definitive conclusions regarding causality or temporal precedence.
+Furthermore, the analysis omitted potential confounding variables that could influence stress levels, such as the exact stability or length of the child-caregiver placement, histories of separations, or other traumatic experiences pertinent to the dyad dynamic.
+The physiological findings are also subject to biological constraints inherent to hair analysis.
+
+While Muentner et al.’s (2025) study did not utilize neuroimaging and focuses on an earlier developmental window, it depicts a mechanistic bridge through which structural atrophy/change can occur in children.
+This study illustrates how frontolimbic structural changes, such as atrophy in the prefrontal cortex or hyperactivity and volume alterations in the amygdala, are influenced by chronic HPA-axis dysregulation.
+This study contextualizes these physiological findings via hair cortisol and cortisone levels within the context of parental incarceration.
+Additionally, Muentner et al. (2025) note that the development of physiological stress responses in early children establish a baseline for how children adapt and potentially mitigate stress down the road.
+This mitigation response is aided by attachment security.
+Muentner et al. (2025) highlight how secure attachment can function as a “buffer” and protective element against increased adversity and may prevent or “buffer” the effects of prolonged stress, thus also “buffering” the developing brain against fronto-limbic atrophy.
 
 t.  
 
@@ -380,17 +451,19 @@ u.
      Andersen, S. L. (2022). Neuroinflammation, early-life adversity, and brain development. Harvard Review of Psychiatry, 30(1), 24–39. https://doi.org/10.1097/hrp.0000000000000325
     ```
 
-    Andersen (2022) presents a comprehensive literature review that integrates clinical and preclinical findings to explain how early life adversity interacts with neuroinflammation to alter brain development.
-    Andersen (2022) posits that chronic stress during critical developmental windows triggers an inflammatory response that activates microglia and leads to the over-pruning of developing synapses, thus directly degrading inhibitory (GABA) neurons.
-    This shifts the brain’s excitatory/inhibitory balance and has consequences for long-term plasticity and behavioral flexibility.
-    Andersen (2022) synthesized clinical information regarding children, adolescents, and adults of both sexes who experienced physical abuse, sexual abuse, or neglect before the age of 18.
-    The preclinical literature relates to developmental rodent models exposed to species-relevant stressors.
-    Andersen (2022) utilized both clinical and preclinical frameworks to address the causal limitation inherent in correlational studies.
-    While human studies provide the necessary clinical framework and validity, the animal models allow for the establishment of temporal precedence and specific biological mechanisms.
-    Overall, Andersen’s (2022) framework was supported across the reviewed literature, demonstrating that early adversity consistently elevates inflammatory markers and alters cortical and subcortical structures.
-    Andersen (2022) relates to my research question because, although she does not specifically mention parental incarceration in her framework, she does address early-life adversity.
-    Andersen (2022) posits that early-life adversity triggers chronic neuroinflammation and, during critical developmental windows, can activate cascades that influence brain plasticity and structure.
-    The review offers an empirical foundation that directly connects early-life adversity to detrimental biological mechanisms affecting long-term outcomes.
+Andersen (2022) presents a comprehensive literature review that integrates clinical and preclinical findings to explain how early life adversity interacts with neuroinflammation to alter brain development.
+Andersen (2022) posits that chronic stress during critical developmental windows triggers an inflammatory response that activates microglia and leads to the over-pruning of developing synapses, thus directly degrading inhibitory (GABA) neurons.
+This shifts the brain’s excitatory/inhibitory balance and has consequences for long-term plasticity and behavioral flexibility.
+
+Andersen (2022) synthesized clinical information regarding children, adolescents, and adults of both sexes who experienced physical abuse, sexual abuse, or neglect before the age of 18.
+The preclinical literature relates to developmental rodent models exposed to species-relevant stressors.
+Andersen (2022) utilized both clinical and preclinical frameworks to address the causal limitation inherent in correlational studies.
+While human studies provide the necessary clinical framework and validity, the animal models allow for the establishment of temporal precedence and specific biological mechanisms.
+
+Overall, Andersen’s (2022) framework was supported across the reviewed literature, demonstrating that early adversity consistently elevates inflammatory markers and alters cortical and subcortical structures.
+Andersen (2022) relates to my research question because, although she does not specifically mention parental incarceration in her framework, she does address early-life adversity.
+Andersen (2022) posits that early-life adversity triggers chronic neuroinflammation and, during critical developmental windows, can activate cascades that influence brain plasticity and structure.
+The review offers an empirical foundation that directly connects early-life adversity to detrimental biological mechanisms affecting long-term outcomes.
 
 v.  
 
@@ -398,80 +471,75 @@ v.
     Fleck, L., Buss, C., Bauer, M., Stein, M., Mekle, R., Kock, L., Klawitter, H., Godara, M., Ramler, J., Entringer, S., Endres, M., & Heim, C. (2025). Early‐life adversity predicts markers of aging‐related neuroinflammation, neurodegeneration, and cognitive impairment in women. Annals of Neurology, 97(4), 642–656. https://doi.org/10.1002/ana.27161
     ```
 
-    Fleck et al. (2025) investigated how the severity of early-life stress interacts with age to influence markers of human brain aging and neurodegeneration.
-    The authors hypothesized that severe early life stress occurring before pubertal onset sets a trajectory associated with heightened aging-related neuroinflammation, neurodegeneration, and cognitive decline.
-    Fleck et al. (2025) examined a sample of 179 women, all of whom explicitly reported their self-identified gender and biological sex as female.
-    Age ranged from 30 to 60 years, with 93.9% predominantly European/White, 1% Middle Eastern, 1% African, 1% Asian, 1% Latina, and 1.7% missing.
-    Of the sample, 41.5% reported 0 adverse childhood experiences, 32.6% reported 1 to 3 experiences, and 26.4% reported 4 or more adverse experiences.
-    Fleck et al. (2025) excluded any individuals with formal diagnoses of major neurological disorders, current pregnancy, recent use of immunosuppressants, or any medications altering central nervous system activity.
-    Affective conditions such as depression, anxiety, or PTSD were not excluded from participating, as they served potential roles as mediators.
-    Fleck et al.’s (2025) study was cross-sectional in design and assessed two main continuous variables: age and early life stress severity.
-    Early life stress severity was quantified using the German version of the Comprehensive Trauma Interview and cross-validated against the Childhood Trauma Questionnaire.
-    Pubertal onset was defined as the onset of menarche rather than age.
-    Adversity scores were tabulated using the CDC’s Adverse Childhood Experiences matrix.
-    Additionally, Fleck et al. (2025) collected biological data, including venous blood samples and structural neuroimaging, and evaluated cognitive abilities using the Cambridge Neuropsychological Test Automated Battery.
-    Fleck et al.’s (2025) hypothesis was strongly supported across 13 out of 15 targeted outcomes.
-    The models remained significant even when adjusting for current psychiatric conditions and socio-economic status.
-    Specifically, changes in neuroinflammation were confirmed by a significant interaction: serum levels of glial fibrillary acidic protein increased with age, primarily in women with elevated ELS histories.
-    Fleck et al. (2025) also confirmed a significant effect predicting faster, steeper volume reductions in total brain volume and total grey matter, and enlargement of the third ventricle in older women with elevated early-life stress scores.
-    Furthermore, there was a significant decline in spatial working memory and visual recognition memory among women with higher early-life stress scores.
-    Interestingly, the authors’ hypothesis regarding an interaction between early life stress and serum sp-tau181 was not significant.
-    The authors note that tau pathology is a late-stage manifestation of neurodegeneration; consequently, it may remain undetectable in still healthy samples and populations.
-    Several limitations were referenced by the authors, including: reliance on subjective adult reconstructions of early life stress, cross-sectional nature of the study, reliance on peripheral blood draws instead of cerebrospinal fluid or PET scans, lack of diagnostic screening boundaries to document and diagnose mild cognitive impairment, and finally, lack of diversity and sex specificity.
-    Fleck et al. (2025) support my research question by explicitly linking the “imprisonment of a family member” as a severe early-life stressor capable of causing profound neurobiological damage across the lifespan.
-    Crucially, the study offers an empirical foundation outlining structural trends, revealing that high childhood adversity predicts an initial increase in subcortical grey matter volume during younger adulthood, followed by an accelerated volumetric decline later in life.
-    Fleck et al. (2025) establish a link by demonstrating that early life stress induces elevated markers of neuroinflammation (glial fibrillary acidic protein) and axonal degradation; most importantly, Fleck et al. (2025) emphasize that these cascades begin before pubertal onset and have the ability to alter cortical structures.
+Fleck et al. (2025) investigated how the severity of early-life stress interacts with age to influence markers of human brain aging and neurodegeneration.
+The authors hypothesized that severe early life stress occurring before pubertal onset sets a trajectory associated with heightened aging-related neuroinflammation, neurodegeneration, and cognitive decline.
+Fleck et al. (2025) examined a sample of 179 women, all of whom explicitly reported their self-identified gender and biological sex as female.
+Age ranged from 30 to 60 years, with 93.9% predominantly European/White, 1% Middle Eastern, 1% African, 1% Asian, 1% Latina, and 1.7% missing.
+Of the sample, 41.5% reported 0 adverse childhood experiences, 32.6% reported 1 to 3 experiences, and 26.4% reported 4 or more adverse experiences.
+Fleck et al. (2025) excluded any individuals with formal diagnoses of major neurological disorders, current pregnancy, recent use of immunosuppressants, or any medications altering central nervous system activity.
+Affective conditions such as depression, anxiety, or PTSD were not excluded from participating, as they served potential roles as mediators.
+
+Fleck et al.’s (2025) study was cross-sectional in design and assessed two main continuous variables: age and early life stress severity.
+Early life stress severity was quantified using the German version of the Comprehensive Trauma Interview and cross-validated against the Childhood Trauma Questionnaire.
+Pubertal onset was defined as the onset of menarche rather than age.
+Adversity scores were tabulated using the CDC’s Adverse Childhood Experiences matrix.
+Additionally, Fleck et al. (2025) collected biological data, including venous blood samples and structural neuroimaging, and evaluated cognitive abilities using the Cambridge Neuropsychological Test Automated Battery.
+Fleck et al.’s (2025) hypothesis was strongly supported across for most of the original hypotheses.
+The models remained significant even when adjusting for current psychiatric conditions and socio-economic status.
+Specifically, changes in neuroinflammation were confirmed by a significant interaction: serum levels of glial fibrillary acidic protein increased with age, primarily in women with elevated ELS histories.
+Fleck et al. (2025) also confirmed a significant effect predicting faster, steeper volume reductions in total brain volume and total grey matter, and enlargement of the third ventricle in older women with elevated early-life stress scores.
+Furthermore, there was a significant decline in spatial working memory and visual recognition memory among women with higher early-life stress scores.
+Interestingly, the authors’ hypothesis regarding an interaction between early life stress and serum sp-tau181 was not significant.
+The authors note that tau pathology is a late-stage manifestation of neurodegeneration; consequently, it may remain undetectable in still healthy samples and populations.
+Several limitations were referenced by the authors, including: reliance on subjective adult reconstructions of early life stress, cross-sectional nature of the study, reliance on peripheral blood draws instead of cerebrospinal fluid or PET scans, lack of diagnostic screening boundaries to document and diagnose mild cognitive impairment, and finally, lack of diversity and sex specificity.
+
+Fleck et al. (2025) support my research question by explicitly linking the “imprisonment of a family member” as a severe early-life stressor capable of causing profound neurobiological damage across the lifespan.
+Crucially, the study offers an empirical foundation outlining structural trends, revealing that high childhood adversity predicts an initial increase in subcortical grey matter volume during younger adulthood, followed by an accelerated volumetric decline later in life.
+Fleck et al. (2025) establish a link by demonstrating that early life stress induces elevated markers of neuroinflammation (glial fibrillary acidic protein) and axonal degradation; most importantly, Fleck et al. (2025) emphasize that these cascades begin before pubertal onset and have the ability to alter cortical structures.
 
 w.  
 
-    ```         
-    Pantell, M. S., Silveira, P. P., de Mendonça Filho, E. J., Wing, H., Brown, E. M., Keeton, V. F., Pokhvisneva, I., O’Donnell, K. J., Neuhaus, J., Hessler, D., Meaney, M. J., Adler, N. E., & Gottlieb, L. M. (2024). Associations between social adversity and biomarkers of inflammation, stress, and aging in children. Pediatric Research, 95(6), 1553–1563. https://doi.org/10.1038/s41390-023-02992-6
-    ```
-
-    Pantell et al. (2024) investigated the associations between early childhood social adversity, measured via individual socio-economic indicators and a cumulative adversity index, and biomarkers of biological stress activation (neuroendocrine functioning, neuromodulation, and epigenetic markers) in a pediatric population.
-    Pantell et al. (2024) hypothesized that children experiencing greater cumulative social adversity would display higher levels of inflammatory biomarkers, lower levels of neuromodulatory biomarkers, and accelerated epigenetic aging factors.
-    Pantell et al. (2024) analyzed and collected data from 537 child-caregiver dyads.
-    537 children provided biological specimens (saliva, hair, and cheek tissue) while caregivers completed digital surveys to capture sociodemographic data and 14 different categories of household social risk (e.g., food insecurity, housing instability, utility needs, and legal problems).
-    Participants were recruited from an urban safety-net acute care clinic.
-    Of the participating children, 52.9% were female, and 47.1% were male.
-    In terms of caregiver demographics, families experienced an average of 4.3 social risks.
-    The analyses conducted by Pantell et al. (2024) yielded partial support for the researcher’s original hypotheses.
-    Pantell et al. (2024) found a significant correlation between higher cumulative social adversity and elevated levels of inflammatory markers.
-    In terms of specific social adversity metrics, Pantell et al. (2024) only found significant associations between inflammatory markers and parental education.
-    Furthermore, the neuromodulatory hypothesis was only partially supported by the analyses conducted by Pantell et al. (2024).
-    Pantell et al. (2024) found a significant association between child cortisol levels and cumulative social adversity.
-    The data showed an unexpected non-linear U-shaped correlation, with intermediate adversity levels showing higher average cortisol than the extreme ends.
-    Furthermore, Pantell et al. (2024) found no significant associations between cumulative social adversity and epigenetic aging.
-    Overall, these findings support the consensus that significant adversity is associated with increased odds of poorer health (Pantell et al., 2024).
-    Pantell et al. (2024) note several limitations: lack of a socioeconomically diverse sample, cross-sectional design that impedes establishing causality, the omission of other biological metrics that point towards biological aging, and non-exhaustive social profiling.
-    This study relates to my research question because Pantell et al. (2024) identify a physiological link between childhood adversity and subsequent neurobiological changes during the adolescent window.
-    Within Pantell et al.’s (2024) characterization of adversity, they included legal problems as a core social risk.
-    The study establishes that high cumulative social adversity directly influences systemic inflammatory systems in children.
-    This is relevant to my research question and the future implications for research because persistent inflammatory responses can cross the blood-brain barrier, triggering downward cascades that can harm the central nervous system and cortical structures.
-
-x.  
-
 ```         
-Spear, L. P. (2013). Adolescent Neurodevelopment. *Journal of Adolescent Health, 52*(2).
-    <https://doi.org/10.1016/j.jadohealth.2012.05.006>
+Pantell, M. S., Silveira, P. P., de Mendonça Filho, E. J., Wing, H., Brown, E. M., Keeton, V. F., Pokhvisneva, I., O’Donnell, K. J., Neuhaus, J., Hessler, D., Meaney, M. J., Adler, N. E., & Gottlieb, L. M.(2024). Associations between social adversity and biomarkers of inflammation, stress, and aging in children.Pediatric Research, 95(6), 1553–1563. https://doi.org/10.1038/s41390-023-02992-6
 ```
 
+Pantell et al. (2024) investigated the associations between early childhood social adversity, measured via individual socio-economic indicators and a cumulative adversity index, and biomarkers of biological stress activation (neuroendocrine functioning, neuromodulation, and epigenetic markers) in a pediatric population.
+Pantell et al. (2024) hypothesized that children experiencing greater cumulative social adversity would display higher levels of inflammatory biomarkers, lower levels of neuromodulatory biomarkers, and accelerated epigenetic aging factors.Pantell et al. (2024) analyzed and collected data from 537 child-caregiver dyads.
+537 children provided biological specimens (saliva, hair, and cheek tissue) while caregivers completed digital surveys to capture sociodemographic data and 14 different categories of household social risk (e.g., food insecurity, housing instability, utility needs, and legal problems).
+Participants were recruited from an urban safety-net acute care clinic.
+Of the participating children, 52.9% were female, and 47.1% were male.
+In terms of caregiver demographics, families experienced an average of 4.3 social risks.
+
+The analyses conducted by Pantell et al. (2024) yielded partial support for the researcher’s original hypotheses.
+Pantell et al. (2024) found a significant correlation between higher cumulative social adversity and elevated levels of inflammatory markers.
+In terms of specific social adversity metrics, Pantell et al. (2024) only found significant associations between inflammatory markers and parental education.
+Furthermore, the neuromodulatory hypothesis was only partially supported by the analyses conducted by Pantell et al. (2024).
+Pantell et al. (2024) found a significant association between child cortisol levels and cumulative social adversity.
+The data showed an unexpected non-linear U-shaped correlation, with intermediate adversity levels showing higher average cortisol than the extreme ends.
+Furthermore, Pantell et al. (2024) found no significant associations between cumulative social adversity and epigenetic aging.
+Overall, these findings support the consensus that significant adversity is associated with increased odds of poorer health (Pantell et al., 2024).
+Pantell et al. (2024) note several limitations: lack of a socioeconomically diverse sample, cross-sectional design that impedes establishing causality, the omission of other biological metrics that point towards biological aging, and non-exhaustive social profiling.
+
+This study relates to my research question because Pantell et al. (2024) identify a physiological link between childhood adversity and subsequent neurobiological changes during the adolescent window.
+Within Pantell et al.’s (2024) characterization of adversity, they included legal problems as a core social risk.
+The study establishes that high cumulative social adversity directly influences systemic inflammatory systems in children.
+This is relevant to my research question and the future implications for research because persistent inflammatory responses can cross the blood-brain barrier, triggering downward cascades that can harm the central nervous system and cortical structures.
+
 x.  
 
 ```         
-Schalbetter, S. M., von Arx, A. S., Cruz-Ochoa, N., Dawson, K., Ivanov, A., Mueller, F. S., Lin, H.-Y., Amport, R., Mildenberger, W., Mattei, D., Beule, D., Földy, C., Greter, M., Notter, T., & Meyer, U.
-    (2022).
-    Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.
-    *Science Advances*, *8*(9).
-    <https://doi.org/10.1126/sciadv.abi6672>
+Spear, L. P. (2013).Adolescent Neurodevelopment.Journal of Adolescent Health, 52(2). https://doi.org/10.1016/j.jadohealth.2012.05.006
 ```
 
 y.  
 
 ```         
-Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S.
-    (1998a).
-    Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults.
-    *American Journal of Preventive Medicine*, *14*(4), 245–258.
-    [https://doi.org/10.1016/s0749-3797(98)00017-8](https://doi.org/10.1016/s0749-3797(98)00017-8)
+Schalbetter, S. M., von Arx, A. S., Cruz-Ochoa, N., Dawson, K., Ivanov, A., Mueller, F. S., Lin, H.-Y., Amport, R., Mildenberger, W., Mattei, D., Beule, D., Földy, C., Greter, M., Notter, T., & Meyer, U. (2022). Adolescence is a sensitive period for prefrontal microglia to act on cognitive development.Science Advances, 8(9).https://doi.org/10.1126/sciadv.abi6672
+```
+
+z.  
+
+```         
+Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S. (1998).Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults.
+American Journal of Preventive Medicine\*, 14(4), 245–258. https://doi.org/10.1016/s0749-3797(98)00017-8
 ```
