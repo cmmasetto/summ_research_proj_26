@@ -384,11 +384,61 @@ p.
     Rakesh, D., Elzeiny, R., Vijayakumar, N., & Whittle, S. (2023). A longitudinal study of childhood maltreatment, subcortical development, and subcortico-cortical structural maturational coupling from early to late adolescence. Psychological Medicine, 53(16), 7525–7536. https://doi.org/10.1017/s0033291723001253
     ```
 
+Rakesh et al. (2023) sought to investigate three distinct aims: associations between childhood maltreatment, amygdala and hippocampal development, and subcortical PFC coupling during adolescence; whether different dimensions of maltreatment, either deprivation (neglect) or threat (abuse), have distinct effects on adolescent neurodevelopment; and whether maltreatment-related neurodevelopmental trajectories mediate the associations between childhood adversity and mental health symptoms trajectories from early adolescence to early adulthood.
+Rakesh et al. (2023) present three hypotheses: childhood maltreatment would be associated with attenuated longitudinal growth of the amygdala and hippocampus during adolescence; childhood maltreatment would be associated with weaker positive subcortical-PFC structural maturational coupling; using the DMAP framework, threat would show stronger associations with subcortical neurodevelopment than deprivation.
+
+Rakesh et al. (2023) examined data from 144 participants selected from the Orygen Adolescent Development Study (Australia).
+Data were collected at five different time points, with the first collection occurring between ages 11-13 and the final between ages 26-28.
+The Childhood Trauma Questionnaire (CTQ) was administered at age 14 (time point two).
+Structural Magnetic Resonance Imaging (sMRI) was acquired only at time points 1, 3, and 4.
+All MRI data were analyzed using FreeSurfer, and extracted volumes were tabulated according to the Desikan-Killiany atlas.
+
+The analyses conducted by Rakesh et al. (2023) did not support the original hypotheses.
+Rakesh et al. (2023) found that maltreatment did not significantly predict altered amygdala or hippocampal volume development.
+Higher total maltreatment and neglect predicted stronger positive coupling between the amygdala and caudal anterior cingulate cortex (cACC) (Rakesh et al., 2023).
+Deprivation also predicted positive coupling between the hippocampus and three PFC regions (rostral middle frontal, superior frontal, and medial orbitofrontal) (Rakesh et al., 2023).
+Furthermore, maturational coupling effects were driven primarily by neglect and not abuse, contrary to the original hypothesis (Rakesh et al., 2023).
+Structural maturational coupling did not significantly mediate mental health symptom trajectories either (Rakesh et al., 2023).
+Rakesh et al. (2023) present several limitations.
+The most important points of note are assumptions of linear development, averaged brain volume data, and a lack of subregion imaging and volumetric data.
+
+The study conducted by Rakesh et al. (2023) supports my research question, as their findings indicate that deprivation, rather than threat, drives structural alterations.
+By presenting deprivation as a mechanism that drives structural alterations, and conceptualizing parental incarceration as a deprivation mechanism, Rakesh et al.’s (2023) data suggest that parental incarceration is likely to disrupt fronto-subcortical development.
+This could occur through interrelated maturational coupling mechanisms between subcortical structures (the amygdala and hippocampus) and prefrontal regulatory regions (the cACC or PFC).
+Rakesh et al. (2023) also present adolescence as a highly salient window of neurodevelopmental reorganization, and that toxic stressors can trigger non-normative maturation.
+
 q.  
 
     ```         
     Beck, D., Whitmore, L., MacSweeney, N., Brieant, A., Karl, V., de Lange, A.-M. G., Westlye, L. T., Mills, K. L., & Tamnes, C. K. (2025). Dimensions of early-life adversity are differentially associated with patterns of delayed and accelerated brain maturation. Biological Psychiatry, 97(1), 64–72. https://doi.org/10.1016/j.biopsych.2024.07.019
     ```
+
+Beck et al. (2025) aimed to investigate associations between MRI-based estimates of brain maturation and 10 previously characterized dimensions of early-life adversity (ELA) co-occurrence.
+Beck et al. (2025) tested if specific ELA dimensions were associated with altered rates of brain maturation over time.
+Beck et al. (2025) conceptualized brain maturation in the study as the brain-age gap (BAG).
+A higher BAG indicates accelerated brain aging, while a lower BAG indicates decelerated brain aging (Beck et al., 2025).
+Beck et al. (2025) presented two hypotheses.
+Brain dimensions associated with threat, hostility, or environmental danger, specifically caregiver psychopathology (F1), socioeconomic disadvantage and neighborhood safety (F2), child report of family conflict (F5), caregiver substance use and biological parent separation (F6), family anger and arguments (F7), family aggression (F8), and trauma exposure (F9), would be associated with higher BAG and accelerated maturation over time (Beck et al., 2025).
+Dimensions characterized by emotional neglect or lack of input, specifically secondary caregiver lack of support (F3), primary caregiver lack of support (F4), and caregiver lack of supervision (F10), were hypothesized to be associated with lower BAG and delayed maturation over time (Beck et al., 2025).
+
+Beck et al. (2025) analyzed data from 11,800 participants drawn from the Adolescent Brain Cognitive Development (ABCD) Study.
+The MRI data acquired included 19,047 T1-weighted structural MRI images (9,524 unique individuals), 17,668 diffusion tensor imaging (DFI) scans (8,834 unique individuals), and 16,466 resting-state functional MRI (rs-fMRI) images (8,233 unique individuals).
+Neuroimaging data were acquired at baseline and at the 2-year follow-up.
+For the T1-Structural MRI scans, 397 features were recorded regarding total and regional cortical surface area, thickness, volume, depth, contrast, and subcortical volumes.
+576 features were acquired from the DFI scans measuring anisotropy, average diffusivity, longitudinal diffusivity, and radial diffusivity across white matter tracts (Beck et al., 2025).
+416 features were extracted from the rs-fMRI scans to measure functional connectivity within and between networks and subcortical regions (Beck et al., 2025).
+
+For the higher BAG/accelerated maturation hypothesis, Beck et al. (2025) found positive associations for a higher BAG and the ELA dimensions: socioeconomic disadvantages and neighborhood safety, trauma exposure, caregiver substance use & biological parent separation, caregiver psychopathology, and family aggression.
+The ELA dimension of family anger and arguments showed no significant association with higher BAG/accelerated maturation, and the youth-reported dimension of family conflict showed a negative interaction effect over time on rs-fMRI BAG.Regarding the lower BAG/delayed maturation hypothesis, Beck et al. (2025) found significant negative associations across all three ELA dimensions examined (primary caregiver lack of support, secondary caregiver lack of support, and caregiver lack of supervision).The limitations presented by Beck et al. (2025) center on the ABCD study.
+These include community sample characteristics and chronology and timing of exposure to adversity.
+Specifically, Beck et al.’s (2025) analyses did not account for interindividual differences in psychological resilience or complete overlap among all potential stressor combinations.
+
+The findings from Beck et al.’s (2025) study, specifically those pertaining to ELA dimensions of caregiver substance use and separation from biological parents (F6), socioeconomic disadvantage (F2), and caregiver lack of support and supervision (F3, F4, and F10), provide empirical evidence to support my research question.
+Parental incarceration directly involves separation from a primary biological caregiver.
+Beck et al. (2025) demonstrated that biological parent separation and caregiver substance abuse were associated with higher rs-fMRI BAGs and accelerated functional maturation over time.
+Concomitantly, Beck et al. (2025) indicated that neglect-related dimensions were significantly associated with lower structural BAGs and delayed maturation over time.
+This result suggests that deprivation from parental loss may disrupt normative cortical pruning processes during adolescence.
+Overall, Beck et al. (2025) elucidate how parental incarceration can act as a compound stressor that can induce acceleration in processing circuits and delay cortical development.
 
 r.  
 
